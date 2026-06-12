@@ -1,16 +1,24 @@
 {
-  "generatedAt": "2026-06-12T18:21:56.006Z",
+  "generatedAt": "2026-06-12T20:33:11.300Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
       "error": null,
       "title": "Farské oznamy | Farazv",
       "textHash": "9151dee726aa0a0b62ee05c9d72eb90f08e1d7c7ab8eb977009ba5873570d60b",
-      "fingerprint": "5b2850e007eaef0a4f662ad08b860fccd8be6a055d21b4ca5b955b91370876f8",
-      "changedAt": "2026-06-12T18:21:56.006Z",
+      "fingerprint": "a676de9e95a1963a5e31586197415502f9bb7d78358c9a0ed400f1027809b141",
+      "changedAt": "2026-06-12T20:33:11.300Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Farské oznamy · Rozpis svätých omší · Nedeľa · 7. júna 2026 · DESIATA NEDEĽA V CEZROČNOM OBDOBÍ SLÁVNOSŤ EUCHARISTICKÁ PROCESIA · 7:00 · Kraus · Za členov ružencového bratstva · 8:45 · Líška · Lieskovec Za zdravie a BP pre Blaženku · 10:00 · Dragúň · Farská Za farnosť Sv. omša v PARKU · 11:00 · kňaz · Zolná – miestny úmysel · 19:00 · dominikán · Mládež + otca a starých rodičov z oboch strán · Pondelok · 8. júna 2026 · PONDELOK 10. TÝŽDŇA V CEZROČNOM OBDOBÍ · 6:30 · Líška · + kňazi vdp. Šadlák, Klabník, Mazák · 12:00 · Kaniansky · + Mária, Ondrej a Ladislav · 18:00 · Kraus · + Mária, Michal, Vierka a Jozef · Utorok · 9. júna 2026 · UTOROK 10. TÝŽDŇA V CEZROČNOM OBDOBÍ · 6:30 · Líška · + z rodiny Lančaričovú a Zdechovanovú · 12:00 · Kaniansky · + manžel Vladimír · 18:00 · Kraus · + Ján Drugda a jeho rodičia · Streda · 10. júna 2026 · STREDA 10. TÝŽDŇA V CEZROČNOM OBDOBÍ · 6:30 · Líška · +J",
       "documents": [
+        {
+          "url": "https://farazv.sk/static/e76dd9793aca7fd24b95daa615ace686/f81df/Elektronicky_zvoncek_QR_4c67f36694.jpg",
+          "type": "image",
+          "label": "Elektronicky_zvoncek_QR_4c67f36694.jpg",
+          "hash": "a6050d5327e7eea12a331a52f54b88e4aa80a80f0898434540cb3d9db640ae01",
+          "bytes": 437285,
+          "changedAt": "2026-06-12T20:33:11.300Z"
+        },
         {
           "url": "https://farazv.sk/static/2a892486fcaaa1b0f5a67660d198429a/8b1ad/NS_oltar_A5_7c82966003.jpg",
           "type": "image",

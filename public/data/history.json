@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "at": "2026-06-12T20:33:11.300Z",
+      "parishId": "zvolen-mesto",
+      "kind": "update",
+      "summary": "nový dokument: Elektronicky_zvoncek_QR_4c67f36694.jpg"
+    },
+    {
       "at": "2026-06-12T18:21:56.006Z",
       "parishId": "zvolen-mesto",
       "kind": "first",

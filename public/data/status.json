@@ -1,4 +1,232 @@
 {
-  "generatedAt": null,
-  "parishes": {}
+  "generatedAt": "2026-06-12T18:21:56.006Z",
+  "parishes": {
+    "zvolen-mesto": {
+      "ok": true,
+      "error": null,
+      "title": "Farské oznamy | Farazv",
+      "textHash": "9151dee726aa0a0b62ee05c9d72eb90f08e1d7c7ab8eb977009ba5873570d60b",
+      "fingerprint": "5b2850e007eaef0a4f662ad08b860fccd8be6a055d21b4ca5b955b91370876f8",
+      "changedAt": "2026-06-12T18:21:56.006Z",
+      "firstSeenAt": "2026-06-12T18:21:56.006Z",
+      "excerpt": "Farské oznamy · Rozpis svätých omší · Nedeľa · 7. júna 2026 · DESIATA NEDEĽA V CEZROČNOM OBDOBÍ SLÁVNOSŤ EUCHARISTICKÁ PROCESIA · 7:00 · Kraus · Za členov ružencového bratstva · 8:45 · Líška · Lieskovec Za zdravie a BP pre Blaženku · 10:00 · Dragúň · Farská Za farnosť Sv. omša v PARKU · 11:00 · kňaz · Zolná – miestny úmysel · 19:00 · dominikán · Mládež + otca a starých rodičov z oboch strán · Pondelok · 8. júna 2026 · PONDELOK 10. TÝŽDŇA V CEZROČNOM OBDOBÍ · 6:30 · Líška · + kňazi vdp. Šadlák, Klabník, Mazák · 12:00 · Kaniansky · + Mária, Ondrej a Ladislav · 18:00 · Kraus · + Mária, Michal, Vierka a Jozef · Utorok · 9. júna 2026 · UTOROK 10. TÝŽDŇA V CEZROČNOM OBDOBÍ · 6:30 · Líška · + z rodiny Lančaričovú a Zdechovanovú · 12:00 · Kaniansky · + manžel Vladimír · 18:00 · Kraus · + Ján Drugda a jeho rodičia · Streda · 10. júna 2026 · STREDA 10. TÝŽDŇA V CEZROČNOM OBDOBÍ · 6:30 · Líška · +J",
+      "documents": [
+        {
+          "url": "https://farazv.sk/static/2a892486fcaaa1b0f5a67660d198429a/8b1ad/NS_oltar_A5_7c82966003.jpg",
+          "type": "image",
+          "label": "NS_oltar_A5_7c82966003.jpg",
+          "hash": "2440240cdf3c8d91879e6ee17400c99abb0aef6c80777308052622dfcb1f38a6",
+          "bytes": 571635,
+          "changedAt": "2026-06-12T18:21:56.006Z"
+        }
+      ]
+    },
+    "zvolen-sekier": {
+      "ok": true,
+      "error": null,
+      "title": "Farnosť Božského srdca Ježišovho – Farské oznamy",
+      "textHash": "2eb0944531c8783f4556779231c3e3f3e4a109ef0aa5402acb5ee65b127d8ca5",
+      "fingerprint": "4cad2b70f8603772c1a3b68b9a651df3331164b7c582e737f8833de14ba84e57",
+      "changedAt": "2026-06-12T18:21:56.006Z",
+      "firstSeenAt": "2026-06-12T18:21:56.006Z",
+      "excerpt": "Príležitostné oznamy · Púť Assisi - Rím - Padova / Základné informácie · Zverejnené 28.03.2026. · Po Veľkej noci 2026 bude spustená registrácia záujemcov o účať na farskej púti do Assisi, Ríma a Padovy, ktorá je naplánovaná v termíne od 4.10. do 10.10.2026 . V tomto príspevku sa dočítate všetky potrebné informácie. Priebežne dopĺňané... · Čítať ďalej » · Darujte 2% z daní pre občianske združenie COR · Zverejnené 08.03.2026. · COR, oz je registrované ako mládežnícke združenie, ktoré pomáha pri výchove detí a mládeže. Jeho činnosť v našej farnosti netreba nejako zvlášť predstavovať. O vaše 2% z daní sa uchádza už od roku 2006 a sme vám vďační za vašu podporu. Každoročne nám pomáhate pri našej práci, nech vám Boh odmení vašu štedrosť. · Čítať ďalej » · Aktuálne farské oznamy · Archív farských oznamov · 10. nedeľa v Cezročnom období (07. 06. 2026) · Nedeľa Najsvätejšej Trojice (31. 05. 2026)",
+      "documents": [
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/bb-250-konferencia-program.pdf",
+          "type": "pdf",
+          "label": "bb-250-konferencia-program.pdf",
+          "hash": "9040c4ac71ecde9c27a469b7c8acaddbd047da22fa2764ecbeddcbdc7854799c",
+          "bytes": 1393787,
+          "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://farasekier.sk/userfiles/images/2-percenta-odkaz.png",
+          "type": "image",
+          "label": "2-percenta-odkaz.png",
+          "hash": "79eff7fb699bd6ec208546f1fc0fde3d86be0bb88d3b649d29b934a6629efe54",
+          "bytes": 54531,
+          "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/07062026.jpg",
+          "type": "image",
+          "label": "07062026.jpg",
+          "hash": "371bf6b7b73173675cfea77c29f23f919faa35bf8d368f5cad4f1b0b41375e07",
+          "bytes": 1059292,
+          "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/31052026.jpg",
+          "type": "image",
+          "label": "31052026.jpg",
+          "hash": "a93b3c485775883807cb6a5ad2a479d43c43a40ed94261676dc75160d331e8a5",
+          "bytes": 1062833,
+          "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/24052026.jpg",
+          "type": "image",
+          "label": "24052026.jpg",
+          "hash": "70c8268e29a104b728d30fbf53e9479d7811a366d1cd8478f53c5d69fb87d659",
+          "bytes": 952548,
+          "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/17052026.jpg",
+          "type": "image",
+          "label": "17052026.jpg",
+          "hash": "2165b74c8867a9e22af18f15b81dc1f36e808936d062275060c7d4e856f9050b",
+          "bytes": 920136,
+          "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/10052026.jpg",
+          "type": "image",
+          "label": "10052026.jpg",
+          "hash": "53d5167dfafd031676d227094b7f7bbdfd4a01c0324263465a9baea60447b55c",
+          "bytes": 943564,
+          "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/03052026.jpg",
+          "type": "image",
+          "label": "03052026.jpg",
+          "hash": "1e3b8370ba67f1e3b9cdcff672f7f0909c5fa2c180ee955cc97528767592c573",
+          "bytes": 927374,
+          "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/26042026.jpg",
+          "type": "image",
+          "label": "26042026.jpg",
+          "hash": "1c599c25f559d5e823201832ead2c1d597b0af06d37976742941e8a8f17f8316",
+          "bytes": 1084120,
+          "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/19042026.jpg",
+          "type": "image",
+          "label": "19042026.jpg",
+          "hash": "c13feedc57538410b6538cd1b8ea29f7c72f782599f681a154f9f896acdc60c2",
+          "bytes": 977758,
+          "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/12042026.jpg",
+          "type": "image",
+          "label": "12042026.jpg",
+          "hash": "42e7b7ff26c109847852608670911f9676ed8f6ac7edf6d2f9775730e7a728d3",
+          "bytes": 1188185,
+          "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/05042026.jpg",
+          "type": "image",
+          "label": "05042026.jpg",
+          "hash": "945aa9be0a1f020960b5eec1d7ebb56de24408bd6da810c6606d7918d380dc0e",
+          "bytes": 1691427,
+          "changedAt": "2026-06-12T18:21:56.006Z"
+        }
+      ]
+    },
+    "zvolen-zapad": {
+      "ok": true,
+      "error": null,
+      "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
+      "textHash": "07be61f6e555031247c00411c58b16bfc33812b80b0b8fc56e3e1fdc57a2e762",
+      "fingerprint": "bde52daef5ac3e3db8817f5e59f55c4102d2caf75e5eeb188a9b281d0f482fa6",
+      "changedAt": "2026-06-12T18:21:56.006Z",
+      "firstSeenAt": "2026-06-12T18:21:56.006Z",
+      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Cyklopúť Na bicykli za život · Organizácia Košice za život - Deti svätej Alžbety vás pozýva na 29. ročník cyklopúte Na bicykli za život v dňoch 1. - 16. júla 2026: V priebehu 16 dní 44 jedinečných akcií v 30 mestách. Poďte s nami na bicykli, ale príďte k nám, aj keď budeme prechádzať vaším...",
+      "documents": [
+        {
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/06/10-nedela-document.pdf",
+          "type": "pdf",
+          "label": "10-nedela-document.pdf",
+          "hash": "ea0be69508e54a49fff3a08aff560cf20c2fc018bee105bf8242ada3840a37e5",
+          "bytes": 190408,
+          "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400,h_250/https://farnostzvolenzapad.sk/wp-content/uploads/2026/06/cykloput-e1781120534745-400x250.jpg",
+          "type": "image",
+          "label": "cykloput-e1781120534745-400x250.jpg",
+          "hash": "88f802fa688f0822c6f27f60e9e993eb765873e42834837ac70908e8d71548f5",
+          "bytes": 22904,
+          "changedAt": "2026-06-12T18:21:56.006Z"
+        }
+      ]
+    },
+    "grkat-zvolen": {
+      "ok": true,
+      "error": null,
+      "title": "Gréckokatolícka farnosť Zvolen -",
+      "textHash": "bfde2500f3098115cbdb2bf0c89f8d6a9212bf646273434f7070977f13f531ff",
+      "fingerprint": "98d4e8055b832658c8c4016e9bf455b083565f170706e2c20f061788bfdbb453",
+      "changedAt": "2026-06-12T18:21:56.006Z",
+      "firstSeenAt": "2026-06-12T18:21:56.006Z",
+      "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – jún 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · V Žiari nad Hronom najbližšie sv. liturgia v nedeľu – 28.6.2026 o 13:30 – Kostol sedembolestnej P. Márie, · Program prosíme overiť deň pred sv. liturgiou tu na stránke . · Dátum Čas Miesto sv. liturgie · Nedeľa · 7.6.2026 11:00 Nedeľa 2. týždňa po Päťdesiatnici · sv. liturgia – ZV Zámok · 13:30 Žiar n Hronom sv. liturgia · – Kostol Sedembolestnej P. M · Pondelok · 8.6.2026 09:00 sv. liturgia · kaplnka CUP Zvolen · Utorok · 9.6.2026 17:00 sv. liturgia · kaplnka CUP Zvolen · Streda · 10.6.2026 · Štvrtok · 11.6.2026 17:00 sv. liturgia · kaplnka CUP Zvolen · Piatok · 12.6.2026 · 17:00 sv. liturgia · kaplnka CUP Zvolen · Najsladšieho Pána, Boha a Spasiteľa nášho Ježiša Krista, Milujúceho ľudí · Odp",
+      "documents": [
+        {
+          "url": "https://www.grkatzv.sk/wp-content/uploads/2025/12/image.png",
+          "type": "image",
+          "label": "image.png",
+          "hash": "2592f776f1dac227ace53f9f46b0d82d8e7bee277d04b40d49179e70129c85a0",
+          "bytes": 2359088,
+          "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/04/vizual.jpeg",
+          "type": "image",
+          "label": "vizual.jpeg",
+          "hash": "fae7d75f9813937f9301e23c39c755f69995c954b3c986db547f3cddbbb78e26",
+          "bytes": 349176,
+          "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/06/SLOVO-poster-uprava.jpg",
+          "type": "image",
+          "label": "SLOVO-poster-uprava.jpg",
+          "hash": "13799eb64b2d297f05cc1e2c40c097a7a3ab40ac094de6ff4e022a326048d5da",
+          "bytes": 497896,
+          "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/05/image-1024x441.jpg",
+          "type": "image",
+          "label": "image-1024x441.jpg",
+          "hash": "75dc8467f10cea906767b2dcdf4bb9d20c9346a56ecd3d4969e195291215dd48",
+          "bytes": 61751,
+          "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/04/image.jpg",
+          "type": "image",
+          "label": "image.jpg",
+          "hash": "8d1d75421e0a79d80fc852b5357474bf625a42ecb0ef048d235269096796dae5",
+          "bytes": 57909,
+          "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.grkatzv.sk/wp-content/uploads/2025/11/image.jpg",
+          "type": "image",
+          "label": "image.jpg",
+          "hash": "c4b0fc24c002af5d30b39027753a18f00b089940772a284f6662857ca4f14f37",
+          "bytes": 164518,
+          "changedAt": "2026-06-12T18:21:56.006Z"
+        }
+      ]
+    },
+    "cup-zvolen": {
+      "ok": true,
+      "error": null,
+      "title": "Program 2022 - CUP Zvolen",
+      "textHash": "466398d56960f789e84f3aa22a8e5e6ec16ffe911fc657b56073c0f5585e4472",
+      "fingerprint": "a78e17e2a00b0182cb51582c4dfd40b8efa5c9ccd9ea4bf53ec523cde133ab65",
+      "changedAt": "2026-06-12T18:21:56.006Z",
+      "firstSeenAt": "2026-06-12T18:21:56.006Z",
+      "excerpt": "Program na aktuálny semester · Milí študenti TUZVO a priatelia Centra univerzitnej pastorácie (CUP) vo Zvolene, chceme vás informovať, že aj počas tohto semestra je centrum otvorené. · Duchovný program: · Sv. omša: každý pondelok a stredu o 19:00 v kaplnke univerzitného centra a každú nedeľu o 19:00 vo farskom kostole sv. Alžbety · Spoveď alebo duchovný rozhovor možný kedykoľvek počas týždňa (prosím stretnutie naplánovať vopred telefonicky 0907 595 052 alebo emailom cupzv@dominikani.sk ).",
+      "documents": []
+    }
+  }
 }

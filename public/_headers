@@ -1,0 +1,20 @@
+# Bezpečnostné hlavičky pre Cloudflare Pages.
+# CSP: žiadne inline skripty/štýly, žiadne cudzie CDN; spojenia len na
+# vlastnú doménu a GitHub API (publikovanie zo správy, čas poslednej kontroly).
+
+/*
+  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' https://api.github.com; object-src 'none'; base-uri 'none'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=()
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Resource-Policy: same-origin
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+/data/*
+  Cache-Control: no-cache, must-revalidate
+
+/admin.html
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: no-store

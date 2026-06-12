@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="referrer" content="no-referrer">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#0c1230">
+  <title>Správa · Farské oznamy</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <div class="scene" aria-hidden="true">
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+    <div class="blob blob-3"></div>
+  </div>
+
+  <!-- Prihlásenie -->
+  <div class="page login-wrap" id="login-view" hidden>
+    <form class="login-card glass center" id="login-form" autocomplete="off">
+      <div class="brand-mark" aria-hidden="true">✠</div>
+      <h1>Správa oznamov</h1>
+      <p class="muted">Prihláste sa do správcovského rozhrania.</p>
+      <div class="field ta-left">
+        <label for="login-user">Používateľské meno</label>
+        <input type="text" id="login-user" name="username" autocomplete="username" required>
+      </div>
+      <div class="field ta-left">
+        <label for="login-pass">Heslo</label>
+        <input type="password" id="login-pass" name="password" autocomplete="current-password" required>
+      </div>
+      <p class="error-text" id="login-error" role="alert"></p>
+      <button class="btn btn-primary w-full" type="submit" id="login-submit">Prihlásiť sa</button>
+      <p class="faint mt-3"><a href="./">← späť na oznamy</a></p>
+    </form>
+  </div>
+
+  <!-- Panel -->
+  <div class="page" id="panel-view" hidden>
+    <header class="site-header glass">
+      <a class="brand" href="./">
+        <span class="brand-mark" aria-hidden="true">✠</span>
+        <span>
+          <span class="brand-title">Správa oznamov</span><br>
+          <span class="brand-sub">Zvolen a okolie</span>
+        </span>
+      </a>
+      <a class="btn btn-sm" href="./">Verejná stránka</a>
+      <button class="btn btn-sm btn-danger" type="button" id="logout-btn">Odhlásiť</button>
+    </header>
+
+    <nav class="tabs glass" role="tablist" aria-label="Sekcie správy">
+      <button class="tab" role="tab" data-tab="parishes" aria-selected="true" type="button">Farnosti</button>
+      <button class="tab" role="tab" data-tab="generator" aria-selected="false" type="button">Generátor PDF</button>
+      <button class="tab" role="tab" data-tab="status" aria-selected="false" type="button">Stav kontroly</button>
+      <button class="tab" role="tab" data-tab="settings" aria-selected="false" type="button">Nastavenia</button>
+    </nav>
+
+    <!-- Farnosti -->
+    <section class="glass glass-pad section" id="tab-parishes" role="tabpanel">
+      <div class="section-head">
+        <h2>Sledované farnosti</h2>
+        <div>
+          <button class="btn btn-sm" type="button" id="export-parishes">Exportovať JSON</button>
+          <button class="btn btn-primary btn-sm" type="button" id="add-parish">+ Pridať farnosť</button>
+        </div>
+      </div>
+      <div id="parish-admin-list"></div>
+      <div class="note-box" id="publish-note" hidden>
+        Máte neuložené zmeny. Tlačidlom <strong>Publikovať na GitHub</strong> ich zapíšete do repozitára
+        — web sa automaticky znova nasadí (zvyčajne do 1–2 minút).
+      </div>
+      <div class="card-actions">
+        <button class="btn btn-primary" type="button" id="publish-parishes" disabled>Publikovať na GitHub</button>
+        <button class="btn" type="button" id="discard-parishes" disabled>Zahodiť zmeny</button>
+      </div>
+    </section>
+
+    <!-- Generátor PDF -->
+    <section class="glass glass-pad section" id="tab-generator" role="tabpanel" hidden>
+      <div class="section-head">
+        <h2>Generátor farských oznamov</h2>
+        <span class="faint">Predvyplnené z liturgického kalendára — všetko sa dá upraviť</span>
+      </div>
+
+      <div class="gen-toolbar">
+        <div class="field">
+          <label for="gen-parish">Farnosť</label>
+          <select id="gen-parish"></select>
+        </div>
+        <div class="field narrow">
+          <label for="gen-start">Začiatok (nedeľa)</label>
+          <input type="date" id="gen-start">
+        </div>
+        <div class="field narrow">
+          <label for="gen-days">Počet dní</label>
+          <select id="gen-days">
+            <option value="7">7 (Ne – So)</option>
+            <option value="8" selected>8 (Ne – Ne)</option>
+          </select>
+        </div>
+        <button class="btn" type="button" id="gen-prefill">Predvyplniť kalendár</button>
+      </div>
+
+      <div class="field">
+        <label for="gen-title">Hlavička dokumentu</label>
+        <input type="text" id="gen-title" placeholder="Rímskokatolícka cirkev, farnosť …">
+      </div>
+      <div class="gen-toolbar">
+        <div class="field">
+          <label for="gen-week-label">Liturgický týždeň</label>
+          <input type="text" id="gen-week-label" placeholder="11. týždeň v Cezročnom období">
+        </div>
+        <div class="field">
+          <label for="gen-range">Obdobie (rozsah dátumov)</label>
+          <input type="text" id="gen-range" placeholder="14. – 21. júna 2026">
+        </div>
+      </div>
+
+      <h3>Rozpis dní a svätých omší</h3>
+      <div id="gen-days-host"></div>
+
+      <h3>Oznamy</h3>
+      <div class="field">
+        <label for="gen-announcements">Každý odsek (oddelený prázdnym riadkom) bude v PDF samostatný očíslovaný oznam</label>
+        <textarea id="gen-announcements" rows="7" placeholder="Na budúcu nedeľu bude zbierka na…&#10;&#10;Spovedáme pol hodiny pred svätými omšami."></textarea>
+      </div>
+
+      <div class="field">
+        <label for="gen-footer">Pätička (kontakt)</label>
+        <input type="text" id="gen-footer" placeholder="Farský úrad … · tel.: … · e-mail: …">
+      </div>
+
+      <div class="card-actions no-print">
+        <button class="btn btn-primary" type="button" id="gen-pdf">⬇ Stiahnuť PDF</button>
+        <button class="btn" type="button" id="gen-save-draft">Uložiť rozpracované</button>
+        <button class="btn" type="button" id="gen-load-draft">Načítať uložené</button>
+        <button class="btn btn-danger" type="button" id="gen-clear">Vyčistiť</button>
+      </div>
+    </section>
+
+    <!-- Stav -->
+    <section class="glass glass-pad section" id="tab-status" role="tabpanel" hidden>
+      <div class="section-head">
+        <h2>Stav automatickej kontroly</h2>
+      </div>
+      <dl class="kv" id="status-kv"></dl>
+      <h3 class="mt-4">Farnosti</h3>
+      <div id="status-list"></div>
+    </section>
+
+    <!-- Nastavenia -->
+    <section class="glass glass-pad section" id="tab-settings" role="tabpanel" hidden>
+      <div class="section-head">
+        <h2>Nastavenia</h2>
+      </div>
+
+      <h3>GitHub prepojenie</h3>
+      <p class="muted">Na publikovanie zmien zo správy je potrebný GitHub token (fine-grained PAT)
+        s právom <strong>Contents: Read &amp; Write</strong> len pre tento repozitár.
+        Token sa ukladá zašifrovaný (AES-GCM) kľúčom odvodeným z vášho hesla.</p>
+      <div class="field">
+        <label for="setting-token">Personal Access Token</label>
+        <input type="password" id="setting-token" placeholder="github_pat_…" autocomplete="off">
+      </div>
+      <div class="field">
+        <label for="setting-branch">Vetva pre zápis</label>
+        <input type="text" id="setting-branch" placeholder="main">
+      </div>
+      <div class="card-actions">
+        <button class="btn btn-primary" type="button" id="save-token">Uložiť a overiť</button>
+        <button class="btn btn-danger" type="button" id="forget-token">Zabudnúť token</button>
+      </div>
+      <p class="muted mt-2" id="token-state"></p>
+
+      <h3 class="mt-5">Bezpečnosť</h3>
+      <div class="note-box">
+        Toto je statická stránka — prihlásenie chráni rozhranie a zašifrovaný token,
+        údaje farností sú verejné. Pre serverovú ochranu admin stránky odporúčame zapnúť
+        <strong>Cloudflare Access</strong> na ceste <code>/admin.html</code> (návod v README).
+        Heslo zmeníte príkazom <code>node scripts/hash-password.mjs</code> a nasadením nového odtlačku.
+      </div>
+    </section>
+
+    <footer class="site-footer">
+      <p>© 2026 Filip Stašek</p>
+    </footer>
+  </div>
+
+  <script type="module" src="js/admin.js"></script>
+</body>
+</html>

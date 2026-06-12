@@ -1,0 +1,110 @@
+{
+  "updatedAt": "2026-06-12T15:00:00.000Z",
+  "parishes": [
+    {
+      "id": "zvolen-mesto",
+      "name": "Zvolen – Mesto",
+      "shortName": "Mesto",
+      "url": "https://farazv.sk/farnost/farske-oznamy",
+      "homepage": "https://farazv.sk",
+      "pdfTitle": "Rímskokatolícka cirkev, farnosť Zvolen-mesto",
+      "address": "Námestie SNP, Zvolen",
+      "contact": "",
+      "churches": ["Farský kostol sv. Alžbety"],
+      "defaultMasses": {
+        "mon": [{ "time": "", "place": "", "intention": "" }],
+        "tue": [{ "time": "", "place": "", "intention": "" }],
+        "wed": [{ "time": "", "place": "", "intention": "" }],
+        "thu": [{ "time": "", "place": "", "intention": "" }],
+        "fri": [{ "time": "", "place": "", "intention": "" }],
+        "sat": [{ "time": "", "place": "", "intention": "" }],
+        "sun": [{ "time": "", "place": "", "intention": "" }]
+      },
+      "checkEnabled": true
+    },
+    {
+      "id": "zvolen-sekier",
+      "name": "Zvolen – Sekier",
+      "shortName": "Sekier",
+      "url": "https://www.farasekier.sk/?Farske-oznamy",
+      "homepage": "https://www.farasekier.sk",
+      "pdfTitle": "Rímskokatolícka cirkev, farnosť Zvolen-Sekier",
+      "address": "Sekier, Zvolen",
+      "contact": "",
+      "churches": ["Kostol Božieho milosrdenstva"],
+      "defaultMasses": {
+        "mon": [{ "time": "", "place": "", "intention": "" }],
+        "tue": [{ "time": "", "place": "", "intention": "" }],
+        "wed": [{ "time": "", "place": "", "intention": "" }],
+        "thu": [{ "time": "", "place": "", "intention": "" }],
+        "fri": [{ "time": "", "place": "", "intention": "" }],
+        "sat": [{ "time": "", "place": "", "intention": "" }],
+        "sun": [{ "time": "", "place": "", "intention": "" }]
+      },
+      "checkEnabled": true
+    },
+    {
+      "id": "zvolen-zapad",
+      "name": "Zvolen – Západ",
+      "shortName": "Západ",
+      "url": "https://farnostzvolenzapad.sk/rozpis/",
+      "homepage": "https://farnostzvolenzapad.sk",
+      "pdfTitle": "Rímskokatolícka cirkev, farnosť Zvolen-Západ",
+      "address": "Zvolen – Západ",
+      "contact": "",
+      "churches": ["Kostol Božského Srdca Ježišovho"],
+      "defaultMasses": {
+        "mon": [{ "time": "", "place": "", "intention": "" }],
+        "tue": [{ "time": "", "place": "", "intention": "" }],
+        "wed": [{ "time": "", "place": "", "intention": "" }],
+        "thu": [{ "time": "", "place": "", "intention": "" }],
+        "fri": [{ "time": "", "place": "", "intention": "" }],
+        "sat": [{ "time": "", "place": "", "intention": "" }],
+        "sun": [{ "time": "", "place": "", "intention": "" }]
+      },
+      "checkEnabled": true
+    },
+    {
+      "id": "grkat-zvolen",
+      "name": "Gréckokatolíci Zvolen",
+      "shortName": "Gréckokatolíci",
+      "url": "https://www.grkatzv.sk/",
+      "homepage": "https://www.grkatzv.sk",
+      "pdfTitle": "Gréckokatolícka cirkev, farnosť Zvolen",
+      "address": "Zvolen",
+      "contact": "",
+      "churches": [],
+      "defaultMasses": {
+        "mon": [{ "time": "", "place": "", "intention": "" }],
+        "tue": [{ "time": "", "place": "", "intention": "" }],
+        "wed": [{ "time": "", "place": "", "intention": "" }],
+        "thu": [{ "time": "", "place": "", "intention": "" }],
+        "fri": [{ "time": "", "place": "", "intention": "" }],
+        "sat": [{ "time": "", "place": "", "intention": "" }],
+        "sun": [{ "time": "", "place": "", "intention": "" }]
+      },
+      "checkEnabled": true
+    },
+    {
+      "id": "cup-zvolen",
+      "name": "CUP Zvolen",
+      "shortName": "CUP",
+      "url": "https://www.cupzvolen.sk/aktualne/",
+      "homepage": "https://www.cupzvolen.sk",
+      "pdfTitle": "Centrum univerzitnej pastorácie Zvolen",
+      "address": "Zvolen",
+      "contact": "",
+      "churches": [],
+      "defaultMasses": {
+        "mon": [{ "time": "", "place": "", "intention": "" }],
+        "tue": [{ "time": "", "place": "", "intention": "" }],
+        "wed": [{ "time": "", "place": "", "intention": "" }],
+        "thu": [{ "time": "", "place": "", "intention": "" }],
+        "fri": [{ "time": "", "place": "", "intention": "" }],
+        "sat": [{ "time": "", "place": "", "intention": "" }],
+        "sun": [{ "time": "", "place": "", "intention": "" }]
+      },
+      "checkEnabled": true
+    }
+  ]
+}

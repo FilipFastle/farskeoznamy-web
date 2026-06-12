@@ -1,5 +1,8 @@
 # Farské oznamy · Zvolen
 
+> 🚀 **Návod na nasadenie krok za krokom (GitHub + Cloudflare Pages):
+> [NASADENIE.md](NASADENIE.md)**
+
 Statická webaplikácia, ktorá **sleduje webstránky farností** (texty, PDF, obrázky),
 zobrazuje prehľad oznamov a zmien, a obsahuje **správcovský panel** s generátorom
 PDF farských oznamov napojeným na **liturgický kalendár**. Dizajn: liquid glass,

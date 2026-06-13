@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T20:33:11.300Z",
+  "generatedAt": "2026-06-13T06:34:35.912Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -170,11 +170,19 @@
       "error": null,
       "title": "Gréckokatolícka farnosť Zvolen -",
       "textHash": "bfde2500f3098115cbdb2bf0c89f8d6a9212bf646273434f7070977f13f531ff",
-      "fingerprint": "98d4e8055b832658c8c4016e9bf455b083565f170706e2c20f061788bfdbb453",
-      "changedAt": "2026-06-12T18:21:56.006Z",
+      "fingerprint": "17d0ffcd2a4bfcf6ea5ddcaf7baf17d6ba765a1f90a49de1ba2152ae0f4a28a0",
+      "changedAt": "2026-06-13T06:34:35.912Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – jún 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · V Žiari nad Hronom najbližšie sv. liturgia v nedeľu – 28.6.2026 o 13:30 – Kostol sedembolestnej P. Márie, · Program prosíme overiť deň pred sv. liturgiou tu na stránke . · Dátum Čas Miesto sv. liturgie · Nedeľa · 7.6.2026 11:00 Nedeľa 2. týždňa po Päťdesiatnici · sv. liturgia – ZV Zámok · 13:30 Žiar n Hronom sv. liturgia · – Kostol Sedembolestnej P. M · Pondelok · 8.6.2026 09:00 sv. liturgia · kaplnka CUP Zvolen · Utorok · 9.6.2026 17:00 sv. liturgia · kaplnka CUP Zvolen · Streda · 10.6.2026 · Štvrtok · 11.6.2026 17:00 sv. liturgia · kaplnka CUP Zvolen · Piatok · 12.6.2026 · 17:00 sv. liturgia · kaplnka CUP Zvolen · Najsladšieho Pána, Boha a Spasiteľa nášho Ježiša Krista, Milujúceho ľudí · Odp",
       "documents": [
+        {
+          "url": "https://www.grkat.sk/wp-content//uploads/2025/10/Mapa-grekokatolicke-farnosti-2024-2.jpg",
+          "type": "image",
+          "label": "Mapa-grekokatolicke-farnosti-2024-2.jpg",
+          "hash": "76e0a2d7570987689216dd00ee5b703c56f2c415042fdf21c0a8ac8d9d4e753a",
+          "bytes": 1025620,
+          "changedAt": "2026-06-13T06:34:35.912Z"
+        },
         {
           "url": "https://www.grkatzv.sk/wp-content/uploads/2025/12/image.png",
           "type": "image",

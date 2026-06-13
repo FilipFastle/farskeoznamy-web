@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T16:52:40.758Z",
+  "generatedAt": "2026-06-13T22:33:16.828Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -33,11 +33,11 @@
       "ok": true,
       "error": null,
       "title": "Farnosť Božského srdca Ježišovho – Farské oznamy",
-      "textHash": "2eb0944531c8783f4556779231c3e3f3e4a109ef0aa5402acb5ee65b127d8ca5",
-      "fingerprint": "4cad2b70f8603772c1a3b68b9a651df3331164b7c582e737f8833de14ba84e57",
-      "changedAt": "2026-06-12T18:21:56.006Z",
+      "textHash": "1ff3d6a8ee1a9ab12a375b6aa8b1b7d6c212cc967622a6fc387ee37c5b8337a5",
+      "fingerprint": "3744be37b36e4e39a9fd8925bb0151003d385c05cb2b56f2d85559aa7b1b051e",
+      "changedAt": "2026-06-13T22:33:16.828Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Príležitostné oznamy · Púť Assisi - Rím - Padova / Základné informácie · Zverejnené 28.03.2026. · Po Veľkej noci 2026 bude spustená registrácia záujemcov o účať na farskej púti do Assisi, Ríma a Padovy, ktorá je naplánovaná v termíne od 4.10. do 10.10.2026 . V tomto príspevku sa dočítate všetky potrebné informácie. Priebežne dopĺňané... · Čítať ďalej » · Darujte 2% z daní pre občianske združenie COR · Zverejnené 08.03.2026. · COR, oz je registrované ako mládežnícke združenie, ktoré pomáha pri výchove detí a mládeže. Jeho činnosť v našej farnosti netreba nejako zvlášť predstavovať. O vaše 2% z daní sa uchádza už od roku 2006 a sme vám vďační za vašu podporu. Každoročne nám pomáhate pri našej práci, nech vám Boh odmení vašu štedrosť. · Čítať ďalej » · Aktuálne farské oznamy · Archív farských oznamov · 10. nedeľa v Cezročnom období (07. 06. 2026) · Nedeľa Najsvätejšej Trojice (31. 05. 2026)",
+      "excerpt": "Príležitostné oznamy · Púť Assisi - Rím - Padova / Základné informácie · Zverejnené 28.03.2026. · Po Veľkej noci 2026 bude spustená registrácia záujemcov o účať na farskej púti do Assisi, Ríma a Padovy, ktorá je naplánovaná v termíne od 4.10. do 10.10.2026 . V tomto príspevku sa dočítate všetky potrebné informácie. Priebežne dopĺňané... · Čítať ďalej » · Darujte 2% z daní pre občianske združenie COR · Zverejnené 08.03.2026. · COR, oz je registrované ako mládežnícke združenie, ktoré pomáha pri výchove detí a mládeže. Jeho činnosť v našej farnosti netreba nejako zvlášť predstavovať. O vaše 2% z daní sa uchádza už od roku 2006 a sme vám vďační za vašu podporu. Každoročne nám pomáhate pri našej práci, nech vám Boh odmení vašu štedrosť. · Čítať ďalej » · Aktuálne farské oznamy · Archív farských oznamov · 11. nedeľa v Cezročnom období (14. 06. 2026) · 10. nedeľa v Cezročnom období (07. 06. 202",
       "documents": [
         {
           "url": "https://www.farasekier.sk/userfiles/downloads/bb-250-konferencia-program.pdf",
@@ -54,6 +54,14 @@
           "hash": "79eff7fb699bd6ec208546f1fc0fde3d86be0bb88d3b649d29b934a6629efe54",
           "bytes": 54531,
           "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/14062026.jpg",
+          "type": "image",
+          "label": "14062026.jpg",
+          "hash": "0bb9d812ac196474e2d27c329512da9dfcb276973f71ba9fad32b39d0a9e80c3",
+          "bytes": 966936,
+          "changedAt": "2026-06-13T22:33:16.828Z"
         },
         {
           "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/07062026.jpg",
@@ -125,14 +133,6 @@
           "label": "12042026.jpg",
           "hash": "42e7b7ff26c109847852608670911f9676ed8f6ac7edf6d2f9775730e7a728d3",
           "bytes": 1188185,
-          "changedAt": "2026-06-12T18:21:56.006Z"
-        },
-        {
-          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/05042026.jpg",
-          "type": "image",
-          "label": "05042026.jpg",
-          "hash": "945aa9be0a1f020960b5eec1d7ebb56de24408bd6da810c6606d7918d380dc0e",
-          "bytes": 1691427,
           "changedAt": "2026-06-12T18:21:56.006Z"
         }
       ]

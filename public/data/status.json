@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T06:34:35.912Z",
+  "generatedAt": "2026-06-13T12:06:05.264Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -169,9 +169,9 @@
       "ok": true,
       "error": null,
       "title": "Gréckokatolícka farnosť Zvolen -",
-      "textHash": "bfde2500f3098115cbdb2bf0c89f8d6a9212bf646273434f7070977f13f531ff",
-      "fingerprint": "17d0ffcd2a4bfcf6ea5ddcaf7baf17d6ba765a1f90a49de1ba2152ae0f4a28a0",
-      "changedAt": "2026-06-13T06:34:35.912Z",
+      "textHash": "d5c4d230e728127f82e1d728ae806423027b7ebacf1715f6a9fbfbbfd742c702",
+      "fingerprint": "4027b4cc1e83e3a788ac4675b4d1d4fac612aa752f960b396d66a89e4bf4fea5",
+      "changedAt": "2026-06-13T12:06:05.264Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – jún 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · V Žiari nad Hronom najbližšie sv. liturgia v nedeľu – 28.6.2026 o 13:30 – Kostol sedembolestnej P. Márie, · Program prosíme overiť deň pred sv. liturgiou tu na stránke . · Dátum Čas Miesto sv. liturgie · Nedeľa · 7.6.2026 11:00 Nedeľa 2. týždňa po Päťdesiatnici · sv. liturgia – ZV Zámok · 13:30 Žiar n Hronom sv. liturgia · – Kostol Sedembolestnej P. M · Pondelok · 8.6.2026 09:00 sv. liturgia · kaplnka CUP Zvolen · Utorok · 9.6.2026 17:00 sv. liturgia · kaplnka CUP Zvolen · Streda · 10.6.2026 · Štvrtok · 11.6.2026 17:00 sv. liturgia · kaplnka CUP Zvolen · Piatok · 12.6.2026 · 17:00 sv. liturgia · kaplnka CUP Zvolen · Najsladšieho Pána, Boha a Spasiteľa nášho Ježiša Krista, Milujúceho ľudí · Odp",
       "documents": [
@@ -208,19 +208,43 @@
           "changedAt": "2026-06-12T18:21:56.006Z"
         },
         {
+          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/06/Plagat-A4.jpeg",
+          "type": "image",
+          "label": "Plagat-A4.jpeg",
+          "hash": "aacf7e4adbd6ea74166c43b5ab44663b5751c7188350cd4de61ea3888e517e00",
+          "bytes": 95103,
+          "changedAt": "2026-06-13T12:06:05.264Z"
+        },
+        {
+          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-13-at-12.22.35.jpeg",
+          "type": "image",
+          "label": "WhatsApp-Image-2026-06-13-at-12.22.35.jpeg",
+          "hash": "6663a881e104eceda8bbef2ee2e7845803741e5e2409ace250913544ab445309",
+          "bytes": 158622,
+          "changedAt": "2026-06-13T12:06:05.264Z"
+        },
+        {
+          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-12-at-12.51.40.jpeg",
+          "type": "image",
+          "label": "WhatsApp-Image-2026-06-12-at-12.51.40.jpeg",
+          "hash": "0ecab5740bcb3a0f38649ba4e16e3c39cb29fb02a0777d9980e27580ba620c04",
+          "bytes": 187825,
+          "changedAt": "2026-06-13T12:06:05.264Z"
+        },
+        {
+          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/06/DUCHOVNA-PRIPRAVA-na-NARODNY-POCHOD-ZA-ZIVOT-2026.jpg",
+          "type": "image",
+          "label": "DUCHOVNA-PRIPRAVA-na-NARODNY-POCHOD-ZA-ZIVOT-2026.jpg",
+          "hash": "ca6ad3673726503770d302273158cf450b5214615897e15fb2af3d3909117321",
+          "bytes": 234503,
+          "changedAt": "2026-06-13T12:06:05.264Z"
+        },
+        {
           "url": "https://www.grkatzv.sk/wp-content/uploads/2026/05/image-1024x441.jpg",
           "type": "image",
           "label": "image-1024x441.jpg",
           "hash": "75dc8467f10cea906767b2dcdf4bb9d20c9346a56ecd3d4969e195291215dd48",
           "bytes": 61751,
-          "changedAt": "2026-06-12T18:21:56.006Z"
-        },
-        {
-          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/04/image.jpg",
-          "type": "image",
-          "label": "image.jpg",
-          "hash": "8d1d75421e0a79d80fc852b5357474bf625a42ecb0ef048d235269096796dae5",
-          "bytes": 57909,
           "changedAt": "2026-06-12T18:21:56.006Z"
         },
         {

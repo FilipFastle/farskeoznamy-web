@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T07:00:52.555Z",
+  "generatedAt": "2026-06-14T20:43:37.648Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -142,18 +142,18 @@
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
       "textHash": "07be61f6e555031247c00411c58b16bfc33812b80b0b8fc56e3e1fdc57a2e762",
-      "fingerprint": "bde52daef5ac3e3db8817f5e59f55c4102d2caf75e5eeb188a9b281d0f482fa6",
-      "changedAt": "2026-06-12T18:21:56.006Z",
+      "fingerprint": "35e6480ee315820af54b6f3efdb5f404c4574fd5a46e23d3bd74b6076b078b4f",
+      "changedAt": "2026-06-14T20:43:37.648Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Cyklopúť Na bicykli za život · Organizácia Košice za život - Deti svätej Alžbety vás pozýva na 29. ročník cyklopúte Na bicykli za život v dňoch 1. - 16. júla 2026: V priebehu 16 dní 44 jedinečných akcií v 30 mestách. Poďte s nami na bicykli, ale príďte k nám, aj keď budeme prechádzať vaším...",
       "documents": [
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/06/10-nedela-document.pdf",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/06/11.-nedela-document.pdf",
           "type": "pdf",
-          "label": "10-nedela-document.pdf",
-          "hash": "ea0be69508e54a49fff3a08aff560cf20c2fc018bee105bf8242ada3840a37e5",
-          "bytes": 190408,
-          "changedAt": "2026-06-12T18:21:56.006Z"
+          "label": "11.-nedela-document.pdf",
+          "hash": "c7cf75f66e7fe8527963e67e7816244620e9c10689c485e01d12ed8f9974ce1a",
+          "bytes": 189635,
+          "changedAt": "2026-06-14T20:43:37.648Z"
         },
         {
           "url": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400,h_250/https://farnostzvolenzapad.sk/wp-content/uploads/2026/06/cykloput-e1781120534745-400x250.jpg",

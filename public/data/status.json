@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T20:43:37.648Z",
+  "generatedAt": "2026-06-15T19:10:42.934Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -141,11 +141,11 @@
       "ok": true,
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
-      "textHash": "07be61f6e555031247c00411c58b16bfc33812b80b0b8fc56e3e1fdc57a2e762",
-      "fingerprint": "35e6480ee315820af54b6f3efdb5f404c4574fd5a46e23d3bd74b6076b078b4f",
-      "changedAt": "2026-06-14T20:43:37.648Z",
+      "textHash": "6be36b4c14ec2de7c4e468d2e366ed6e7da984462d4cf7c6abd6f294466e62b7",
+      "fingerprint": "367941b1892f3ec248462668b6c4db743073504cd2edb6dbdd176ade406cf8b8",
+      "changedAt": "2026-06-15T19:10:42.934Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Cyklopúť Na bicykli za život · Organizácia Košice za život - Deti svätej Alžbety vás pozýva na 29. ročník cyklopúte Na bicykli za život v dňoch 1. - 16. júla 2026: V priebehu 16 dní 44 jedinečných akcií v 30 mestách. Poďte s nami na bicykli, ale príďte k nám, aj keď budeme prechádzať vaším...",
+      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Denný farský tábor 2026 – Uzdravení Ježišom · Pozývame deti od 6 do 11 rokov na detský denný tábor v čase od 3. – 7. augusta 2026. Cena je 55 eur na dieťa (súrodenci 45 eur za jedného). Prihlášky sú k dispozícii vytlačené v sakristii alebo si ich môžete stiahnuť tu. Vyplnené prihlášky prosíme doniesť do...",
       "documents": [
         {
           "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/06/11.-nedela-document.pdf",
@@ -156,12 +156,12 @@
           "changedAt": "2026-06-14T20:43:37.648Z"
         },
         {
-          "url": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400,h_250/https://farnostzvolenzapad.sk/wp-content/uploads/2026/06/cykloput-e1781120534745-400x250.jpg",
+          "url": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400,h_250/https://farnostzvolenzapad.sk/wp-content/uploads/2026/02/Denny-farsky-tabor-2026-small-400x250.jpg",
           "type": "image",
-          "label": "cykloput-e1781120534745-400x250.jpg",
-          "hash": "88f802fa688f0822c6f27f60e9e993eb765873e42834837ac70908e8d71548f5",
-          "bytes": 22904,
-          "changedAt": "2026-06-12T18:21:56.006Z"
+          "label": "Denny-farsky-tabor-2026-small-400x250.jpg",
+          "hash": "01cb1413ed838a0d4e3f181127b3f28cb6570cbb04aeab39fea63d7231d69328",
+          "bytes": 16763,
+          "changedAt": "2026-06-15T19:10:42.934Z"
         }
       ]
     },

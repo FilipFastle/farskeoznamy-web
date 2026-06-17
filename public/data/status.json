@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T19:10:42.934Z",
+  "generatedAt": "2026-06-17T12:32:48.496Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -141,11 +141,11 @@
       "ok": true,
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
-      "textHash": "6be36b4c14ec2de7c4e468d2e366ed6e7da984462d4cf7c6abd6f294466e62b7",
-      "fingerprint": "367941b1892f3ec248462668b6c4db743073504cd2edb6dbdd176ade406cf8b8",
-      "changedAt": "2026-06-15T19:10:42.934Z",
+      "textHash": "01a51e872ab41ae18d25397a87535edf465169af7da60b040dcb23ead295b4f5",
+      "fingerprint": "74af14302f212f168aef0c02eba8680fe36ae295f593bae146e90e53ad7b9b92",
+      "changedAt": "2026-06-17T12:32:48.496Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Denný farský tábor 2026 – Uzdravení Ježišom · Pozývame deti od 6 do 11 rokov na detský denný tábor v čase od 3. – 7. augusta 2026. Cena je 55 eur na dieťa (súrodenci 45 eur za jedného). Prihlášky sú k dispozícii vytlačené v sakristii alebo si ich môžete stiahnuť tu. Vyplnené prihlášky prosíme doniesť do...",
+      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Koncoročná zmrzlina!!! · V pondelok 22. 6. o 16.30 hod. pozývame všetky deti, mladých aj rodičov na koncoročnú zmrzlinu, po nej krátke hry pri Hrone a potom spoločná sv. omša. Stretneme sa pred kostolom. Zraz pred kostolom o 16.30 hod. Zmrzlina Krátke hry pri Hrone Sv. omša o 18:00 hod. ...",
       "documents": [
         {
           "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/06/11.-nedela-document.pdf",
@@ -156,12 +156,12 @@
           "changedAt": "2026-06-14T20:43:37.648Z"
         },
         {
-          "url": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400,h_250/https://farnostzvolenzapad.sk/wp-content/uploads/2026/02/Denny-farsky-tabor-2026-small-400x250.jpg",
+          "url": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400,h_250/https://farnostzvolenzapad.sk/wp-content/uploads/2026/06/Koncorocna-zmrzlina-Zvolen-Zapad-400x250.jpg",
           "type": "image",
-          "label": "Denny-farsky-tabor-2026-small-400x250.jpg",
-          "hash": "01cb1413ed838a0d4e3f181127b3f28cb6570cbb04aeab39fea63d7231d69328",
-          "bytes": 16763,
-          "changedAt": "2026-06-15T19:10:42.934Z"
+          "label": "Koncorocna-zmrzlina-Zvolen-Zapad-400x250.jpg",
+          "hash": "528b75fbb53ef08352b488f59e5e8bb76ae3abfbb25c7d38a00c0b5af188162a",
+          "bytes": 18805,
+          "changedAt": "2026-06-17T12:32:48.496Z"
         }
       ]
     },

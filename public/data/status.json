@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T10:50:08.030Z",
+  "generatedAt": "2026-06-22T07:45:03.245Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -142,18 +142,18 @@
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
       "textHash": "01a51e872ab41ae18d25397a87535edf465169af7da60b040dcb23ead295b4f5",
-      "fingerprint": "74af14302f212f168aef0c02eba8680fe36ae295f593bae146e90e53ad7b9b92",
-      "changedAt": "2026-06-17T12:32:48.496Z",
+      "fingerprint": "c87f3bcaa0333e9de2bfc4db681b77164daae5dc9ab0f381fbc9a18ebd7d4fe8",
+      "changedAt": "2026-06-22T07:45:03.245Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Koncoročná zmrzlina!!! · V pondelok 22. 6. o 16.30 hod. pozývame všetky deti, mladých aj rodičov na koncoročnú zmrzlinu, po nej krátke hry pri Hrone a potom spoločná sv. omša. Stretneme sa pred kostolom. Zraz pred kostolom o 16.30 hod. Zmrzlina Krátke hry pri Hrone Sv. omša o 18:00 hod. ...",
       "documents": [
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/06/11.-nedela-document.pdf",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/06/12.-cezrocna-2026-A.pdf",
           "type": "pdf",
-          "label": "11.-nedela-document.pdf",
-          "hash": "c7cf75f66e7fe8527963e67e7816244620e9c10689c485e01d12ed8f9974ce1a",
-          "bytes": 189635,
-          "changedAt": "2026-06-14T20:43:37.648Z"
+          "label": "12.-cezrocna-2026-A.pdf",
+          "hash": "56f94295f6138465f01ad1fb5cbbe93f277396a89f00ed948523564ba2f9d684",
+          "bytes": 191931,
+          "changedAt": "2026-06-22T07:45:03.245Z"
         },
         {
           "url": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400,h_250/https://farnostzvolenzapad.sk/wp-content/uploads/2026/06/Koncorocna-zmrzlina-Zvolen-Zapad-400x250.jpg",

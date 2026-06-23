@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "at": "2026-06-23T08:40:12.147Z",
+      "parishId": "zvolen-mesto",
+      "kind": "update",
+      "summary": "aktualizovaný text oznamov"
+    },
+    {
+      "at": "2026-06-23T08:40:12.147Z",
+      "parishId": "zvolen-zapad",
+      "kind": "update",
+      "summary": "aktualizovaný text oznamov; nový dokument: Denny-farsky-tabor-2026-small-400x250.jpg; odstránený dokument: Koncorocna-zmrzlina-Zvolen-Zapad-400x250.jpg"
+    },
+    {
       "at": "2026-06-22T07:45:03.245Z",
       "parishId": "zvolen-zapad",
       "kind": "update",

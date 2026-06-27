@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T12:47:44.183Z",
+  "generatedAt": "2026-06-27T22:33:07.756Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -33,11 +33,11 @@
       "ok": true,
       "error": null,
       "title": "Farnosť Božského srdca Ježišovho – Farské oznamy",
-      "textHash": "21022cc0852805c95c4bcf301370068af0e12f962217852d047f2131637ee72f",
-      "fingerprint": "90aa34208cc924fa522418e64d517a40a1a932edc99d00efdba8bca0aac72154",
-      "changedAt": "2026-06-20T22:38:01.417Z",
+      "textHash": "8c8b508576adb05d38db53f45593febfb9b7610e4fe7a23380c80bf9cb2dea2d",
+      "fingerprint": "d023bb0bd165b2aabb716a6d6830827ae2bd48f6d2129b34c58f1170dac50758",
+      "changedAt": "2026-06-27T22:33:07.756Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Príležitostné oznamy · Púť Assisi - Rím - Padova / Základné informácie · Zverejnené 28.03.2026. · Po Veľkej noci 2026 bude spustená registrácia záujemcov o účať na farskej púti do Assisi, Ríma a Padovy, ktorá je naplánovaná v termíne od 4.10. do 10.10.2026 . V tomto príspevku sa dočítate všetky potrebné informácie. Priebežne dopĺňané... · Čítať ďalej » · Darujte 2% z daní pre občianske združenie COR · Zverejnené 08.03.2026. · COR, oz je registrované ako mládežnícke združenie, ktoré pomáha pri výchove detí a mládeže. Jeho činnosť v našej farnosti netreba nejako zvlášť predstavovať. O vaše 2% z daní sa uchádza už od roku 2006 a sme vám vďační za vašu podporu. Každoročne nám pomáhate pri našej práci, nech vám Boh odmení vašu štedrosť. · Čítať ďalej » · Aktuálne farské oznamy · Archív farských oznamov · 12. nedeľa v Cezročnom období (21. 06. 2026) · 11. nedeľa v Cezročnom období (14. 06. 202",
+      "excerpt": "Príležitostné oznamy · Púť Assisi - Rím - Padova / Základné informácie · Zverejnené 28.03.2026. · Po Veľkej noci 2026 bude spustená registrácia záujemcov o účať na farskej púti do Assisi, Ríma a Padovy, ktorá je naplánovaná v termíne od 4.10. do 10.10.2026 . V tomto príspevku sa dočítate všetky potrebné informácie. Priebežne dopĺňané... · Čítať ďalej » · Darujte 2% z daní pre občianske združenie COR · Zverejnené 08.03.2026. · COR, oz je registrované ako mládežnícke združenie, ktoré pomáha pri výchove detí a mládeže. Jeho činnosť v našej farnosti netreba nejako zvlášť predstavovať. O vaše 2% z daní sa uchádza už od roku 2006 a sme vám vďační za vašu podporu. Každoročne nám pomáhate pri našej práci, nech vám Boh odmení vašu štedrosť. · Čítať ďalej » · Aktuálne farské oznamy · Archív farských oznamov · 13. nedeľa v Období cez rok (28. 06. 2026) · 12. nedeľa v Cezročnom období (21. 06. 2026)",
       "documents": [
         {
           "url": "https://www.farasekier.sk/userfiles/downloads/bb-250-konferencia-program.pdf",
@@ -54,6 +54,14 @@
           "hash": "79eff7fb699bd6ec208546f1fc0fde3d86be0bb88d3b649d29b934a6629efe54",
           "bytes": 54531,
           "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/28062026.jpg",
+          "type": "image",
+          "label": "28062026.jpg",
+          "hash": "a7e4cbd3f9d7042ced1b0f44153ac6a3594842800d03a2f3bf79c4cc59c7f6d1",
+          "bytes": 1021514,
+          "changedAt": "2026-06-27T22:33:07.756Z"
         },
         {
           "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/21062026.jpg",
@@ -126,14 +134,6 @@
           "hash": "1c599c25f559d5e823201832ead2c1d597b0af06d37976742941e8a8f17f8316",
           "bytes": 1084120,
           "changedAt": "2026-06-12T18:21:56.006Z"
-        },
-        {
-          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/19042026.jpg",
-          "type": "image",
-          "label": "19042026.jpg",
-          "hash": "c13feedc57538410b6538cd1b8ea29f7c72f782599f681a154f9f896acdc60c2",
-          "bytes": 977758,
-          "changedAt": "2026-06-12T18:21:56.006Z"
         }
       ]
     },
@@ -169,11 +169,11 @@
       "ok": true,
       "error": null,
       "title": "Gréckokatolícka farnosť Zvolen -",
-      "textHash": "983aedc329c9005c350d0418ba92faeaab5d42cf5219c11582140b412b9a1191",
-      "fingerprint": "8a4f324ce155f9bcc99bc5a60f3d425ca3bddf11c9d19d10c4ff29953e6b2939",
-      "changedAt": "2026-06-21T10:50:08.030Z",
+      "textHash": "6b4bd412a2eae2b22d5e301b54491dda19510e685c45f53352c624d535b8401e",
+      "fingerprint": "c974ed1822fdc98482af57839161e05e49e83aa63efcb46eb9a43d037b830bb5",
+      "changedAt": "2026-06-27T22:33:07.756Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – jún 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · Pozývame deti a mladých na Letný evanjelizačný tábor (LET2026). · Termín konania: 5. – 10.7.2026 · Miesto konania: Chata Lodiar (pri Počúvadlianskom jazere, v strede · Štiavnických vrchov.) · maps.app.goo.gl/5ET8p4XWsjYmjUKH6 · Téma tábora : „ Buďte odvážni, lebo ja som premohol svet. “ (Jn 16,33) · Tábor je určený pre deti a mládež z gréckokatolíckych farností Bratislavskej eparchie, od ukončeného 2. ročníka základnej školy. Tábor je rozdelený na dve vekové kategórie: Prvú skupinu tvoria deti od 2. -7. ukončeného ročníka ZŠ. Druhú skupinu tvoria staršie deti a mládež od 8. ročníka ZŠ a vyššie. · Prihlasovanie trvá do 20. júna 2026. · V Žiari nad Hronom najbližšie sv. liturgia v nedeľu – 28.6.",
+      "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – jún 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · V Žiari nad Hronom najbližšie sv. liturgia v nedeľu – 28.6.2026 o 13:30 – Kostol sedembolestnej P. Márie, · Program prosíme overiť deň pred sv. liturgiou tu na stránke . · Dátum Čas Miesto sv. liturgie · Nedeľa · 28.6.2026 11:00 Nedeľa 5. týždňa po Päťdesiatnici · sv. liturgia – ZV Zámok o 11:00 · Žiar nad Hronom: · 13:30 – Kostol sedembolestnej P. Márie, · Pondelok · 29.6.2026 17:00 sv. liturgia · kaplnka CUP Zvolen · Svätí, slávni a všechválni najvyšší apoštoli Peter a Pavol · Myrovanie. Prikázaný sviatok. · Utorok · 30.6.2026 · Streda · 1.7.2026 · Štvrtok · 2.7.2026 Cez týžden čerpanie dovolenky, v súrnych prípadoch zastupuje · o. Ján Krupa z BB 0908 677 658 · Piatok · 3.7.2026 · Sobota · 4",
       "documents": [
         {
           "url": "https://www.grkat.sk/wp-content//uploads/2025/10/Mapa-grekokatolicke-farnosti-2024-2.jpg",
@@ -190,6 +190,14 @@
           "hash": "2592f776f1dac227ace53f9f46b0d82d8e7bee277d04b40d49179e70129c85a0",
           "bytes": 2359088,
           "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/06/image-1024x647.jpg",
+          "type": "image",
+          "label": "image-1024x647.jpg",
+          "hash": "2bb9f79391b217bb807f70064d9c6eac36427e9b67692b328d6f307f01e04df0",
+          "bytes": 128100,
+          "changedAt": "2026-06-27T22:33:07.756Z"
         },
         {
           "url": "https://www.grkatzv.sk/wp-content/uploads/2026/04/vizual.jpeg",

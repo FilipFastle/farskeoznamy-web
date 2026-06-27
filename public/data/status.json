@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-27T11:07:57.125Z",
+  "generatedAt": "2026-06-27T12:47:44.183Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
       "error": null,
       "title": "Farské oznamy | Farazv",
-      "textHash": "6bf4935aa2add5e50d0c922af79e4818f5ef508ff3f58977573cce4a93cde8ec",
-      "fingerprint": "4c408927190acfdf76eef1da89f686487bba8ebf2beb098bdd108a9cb077db06",
-      "changedAt": "2026-06-23T08:40:12.147Z",
+      "textHash": "9e52016616129088341d5ed0cff07091ac6c03c74c7364547f3b98a4ea9f46c8",
+      "fingerprint": "f0cfdc670b57302e7c54900a9b0f7541a46031bfed42493b9dd22917d5452bb3",
+      "changedAt": "2026-06-27T12:47:44.183Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy · Rozpis svätých omší · Nedeľa · 28. júna 2026 · TRINÁSTA NEDEĽA V CEZROČNOM OBDOBÍ SLÁVNOSŤ · 7:00 · Kraus · + Emil Forgáč – 1.výročie · 8:45 · Kraus · Lieskovec + Jozef, Mária a Veronika · 9:00 · Kaniansky · Farská Za farnosť · 10:30 · Líška · Deti + Ján a Jolana · 19:00 · dominikán · Mládež Za zdravie a BP pre deti a vnúčatá · Pondelok · 22. júna 2026 · SV. PAVLÍNA Z NOLY, BISKUPA ĽUBOVOĽNÁ SPOMIENKA · 6:30 · Líška · Za zdravie a BP pre Paulínu a jej rodinu · 12:00 · Kaniansky · + Mária Palajová · 18:00 · Kraus · Na úmysly prosieb za uzdravenie k sv. Šarbelovi · Utorok · 23. júna 2026 · UTOROK 12. TÝŽDŇA V CEZROČNOM OBDOBÍ · 6:30 · Líška · + manžel Rudolf, švagor Miroslav s manželkou a ich rodičia · 12:00 · Kaniansky · + manžel Ján, nevesta Janka a rodičia Mária a Štefan · 18:00 · Kraus · + Zdenka Mlaticová -3.výročie · Streda · 24. júna 2026 · NARODENIE SV. JÁNA KRSTITE",
+      "excerpt": "Farské oznamy · Rozpis svätých omší · Nedeľa · 28. júna 2026 · TRINÁSTA NEDEĽA V CEZROČNOM OBDOBÍ SLÁVNOSŤ · 7:00 · Kraus · + Emil Forgáč – 1.výročie · 8:45 · Kraus · Lieskovec + Jozef, Mária a Veronika · 9:00 · Kaniansky · Farská Za farnosť · 10:30 · Líška · Deti + Ján a Jolana · 19:00 · dominikán · Mládež Za zdravie a BP pre deti a vnúčatá · Pondelok · 29. júna 2026 · SV. PETRA A PAVLA, APOŠTOLOV PRIKÁZANÁ SLÁVNOSŤ · 6:30 · Kraus · + Dominik, Juraj, Pavol a brat Ján · 8:00 · Líška · Deti - školská omša Na úmysel celebranta · 12:00 · Kaniansky · + rodičia Katarína a Ján, brat Jozef a Vierka, kmotrovci Moravčíkovci a Ondrej · 18:00 · Kraus · Lieskovec + z rodiny · 18:00 · Líška · + MUDr. Pavol Cikatricis · Utorok · 30. júna 2026 · UTOROK 13. TÝŽDŇA V CEZROČNOM OBDOBÍ · 6:30 · Líška · + bratia Martin a Miloš · 8:00 · Kraus · Deti – TE DEUM Poďakovanie na konci šk. roka · 12:00 · Kaniansky",
       "documents": [
         {
           "url": "https://farazv.sk/static/e76dd9793aca7fd24b95daa615ace686/f81df/Elektronicky_zvoncek_QR_4c67f36694.jpg",
@@ -30,8 +30,8 @@
       ]
     },
     "zvolen-sekier": {
-      "ok": false,
-      "error": "Stránku sa nepodarilo stiahnuť: fetch failed",
+      "ok": true,
+      "error": null,
       "title": "Farnosť Božského srdca Ježišovho – Farské oznamy",
       "textHash": "21022cc0852805c95c4bcf301370068af0e12f962217852d047f2131637ee72f",
       "fingerprint": "90aa34208cc924fa522418e64d517a40a1a932edc99d00efdba8bca0aac72154",
@@ -138,8 +138,8 @@
       ]
     },
     "zvolen-zapad": {
-      "ok": false,
-      "error": "Stránku sa nepodarilo stiahnuť: fetch failed",
+      "ok": true,
+      "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
       "textHash": "6be36b4c14ec2de7c4e468d2e366ed6e7da984462d4cf7c6abd6f294466e62b7",
       "fingerprint": "6f0f84c3294fa3ae26a3e14407c6e41c415eb127f8440d517e17cc9d8be57e16",
@@ -166,8 +166,8 @@
       ]
     },
     "grkat-zvolen": {
-      "ok": false,
-      "error": "Stránku sa nepodarilo stiahnuť: fetch failed",
+      "ok": true,
+      "error": null,
       "title": "Gréckokatolícka farnosť Zvolen -",
       "textHash": "983aedc329c9005c350d0418ba92faeaab5d42cf5219c11582140b412b9a1191",
       "fingerprint": "8a4f324ce155f9bcc99bc5a60f3d425ca3bddf11c9d19d10c4ff29953e6b2939",
@@ -258,8 +258,8 @@
       ]
     },
     "cup-zvolen": {
-      "ok": false,
-      "error": "Stránku sa nepodarilo stiahnuť: fetch failed",
+      "ok": true,
+      "error": null,
       "title": "Program 2022 - CUP Zvolen",
       "textHash": "466398d56960f789e84f3aa22a8e5e6ec16ffe911fc657b56073c0f5585e4472",
       "fingerprint": "a78e17e2a00b0182cb51582c4dfd40b8efa5c9ccd9ea4bf53ec523cde133ab65",

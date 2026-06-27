@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "at": "2026-06-27T12:47:44.183Z",
+      "parishId": "zvolen-mesto",
+      "kind": "update",
+      "summary": "aktualizovaný text oznamov"
+    },
+    {
+      "at": "2026-06-27T12:47:44.183Z",
+      "parishId": "zvolen-sekier",
+      "kind": "recovered",
+      "summary": "stránka je opäť dostupná"
+    },
+    {
+      "at": "2026-06-27T12:47:44.183Z",
+      "parishId": "zvolen-zapad",
+      "kind": "recovered",
+      "summary": "stránka je opäť dostupná"
+    },
+    {
+      "at": "2026-06-27T12:47:44.183Z",
+      "parishId": "grkat-zvolen",
+      "kind": "recovered",
+      "summary": "stránka je opäť dostupná"
+    },
+    {
+      "at": "2026-06-27T12:47:44.183Z",
+      "parishId": "cup-zvolen",
+      "kind": "recovered",
+      "summary": "stránka je opäť dostupná"
+    },
+    {
       "at": "2026-06-27T11:07:57.125Z",
       "parishId": "zvolen-sekier",
       "kind": "error",

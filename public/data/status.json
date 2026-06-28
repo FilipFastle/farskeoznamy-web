@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T06:39:40.080Z",
+  "generatedAt": "2026-06-28T10:09:50.657Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -30,8 +30,8 @@
       ]
     },
     "zvolen-sekier": {
-      "ok": false,
-      "error": "Stránku sa nepodarilo stiahnuť: fetch failed",
+      "ok": true,
+      "error": null,
       "title": "Farnosť Božského srdca Ježišovho – Farské oznamy",
       "textHash": "8c8b508576adb05d38db53f45593febfb9b7610e4fe7a23380c80bf9cb2dea2d",
       "fingerprint": "d023bb0bd165b2aabb716a6d6830827ae2bd48f6d2129b34c58f1170dac50758",
@@ -138,14 +138,14 @@
       ]
     },
     "zvolen-zapad": {
-      "ok": false,
-      "error": "Stránku sa nepodarilo stiahnuť: fetch failed",
+      "ok": true,
+      "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
-      "textHash": "6be36b4c14ec2de7c4e468d2e366ed6e7da984462d4cf7c6abd6f294466e62b7",
-      "fingerprint": "6f0f84c3294fa3ae26a3e14407c6e41c415eb127f8440d517e17cc9d8be57e16",
-      "changedAt": "2026-06-23T08:40:12.147Z",
+      "textHash": "2691b39c3b54ba53cfbb1385836ea0995aafec3a4fb7cafd73eaed5f40258a33",
+      "fingerprint": "0a90f85919a9f558dce930045a3b1b1c007191f91823a50d09b7b18508d02e04",
+      "changedAt": "2026-06-28T10:09:50.657Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Denný farský tábor 2026 – Uzdravení Ježišom · Pozývame deti od 6 do 11 rokov na detský denný tábor v čase od 3. – 7. augusta 2026. Cena je 55 eur na dieťa (súrodenci 45 eur za jedného). Prihlášky sú k dispozícii vytlačené v sakristii alebo si ich môžete stiahnuť tu. Vyplnené prihlášky prosíme doniesť do...",
+      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Národný pochod za život · „Drahí veriaci, milí priatelia, srdečne Vás pozývam na duchovnú prípravu na Národný pochod za život. Prvou témou duchovnej prípravy je prekonanie ľahostajnosti. Človek sa môže dostať do situácie, že sa mu nechce. Čo urobiť pre to, aby som chcel, aj keď sa mi spontánne...",
       "documents": [
         {
           "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/06/12.-cezrocna-2026-A.pdf",
@@ -156,24 +156,24 @@
           "changedAt": "2026-06-22T07:45:03.245Z"
         },
         {
-          "url": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400,h_250/https://farnostzvolenzapad.sk/wp-content/uploads/2026/02/Denny-farsky-tabor-2026-small-400x250.jpg",
+          "url": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400,h_250/https://farnostzvolenzapad.sk/wp-content/uploads/2026/06/Narodny-pochod-za-zivot-plagat-400x250.jpg",
           "type": "image",
-          "label": "Denny-farsky-tabor-2026-small-400x250.jpg",
-          "hash": "01cb1413ed838a0d4e3f181127b3f28cb6570cbb04aeab39fea63d7231d69328",
-          "bytes": 16763,
-          "changedAt": "2026-06-23T08:40:12.147Z"
+          "label": "Narodny-pochod-za-zivot-plagat-400x250.jpg",
+          "hash": "b39a2dbcb4a2709c7397908115a844a7e559678a5c20616b8c8e554142561cc8",
+          "bytes": 16902,
+          "changedAt": "2026-06-28T10:09:50.657Z"
         }
       ]
     },
     "grkat-zvolen": {
-      "ok": false,
-      "error": "Stránku sa nepodarilo stiahnuť: fetch failed",
+      "ok": true,
+      "error": null,
       "title": "Gréckokatolícka farnosť Zvolen -",
-      "textHash": "6b4bd412a2eae2b22d5e301b54491dda19510e685c45f53352c624d535b8401e",
-      "fingerprint": "c974ed1822fdc98482af57839161e05e49e83aa63efcb46eb9a43d037b830bb5",
-      "changedAt": "2026-06-27T22:33:07.756Z",
+      "textHash": "cb28d408397fc26430f278e071329b48d609d95c1fd3bb7dd814ec44a33bdec6",
+      "fingerprint": "83b03031a7324b59f5fa468e1104847ca8e3b064e53af64e66d3e952fe20e8ad",
+      "changedAt": "2026-06-28T10:09:50.657Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – jún 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · V Žiari nad Hronom najbližšie sv. liturgia v nedeľu – 28.6.2026 o 13:30 – Kostol sedembolestnej P. Márie, · Program prosíme overiť deň pred sv. liturgiou tu na stránke . · Dátum Čas Miesto sv. liturgie · Nedeľa · 28.6.2026 11:00 Nedeľa 5. týždňa po Päťdesiatnici · sv. liturgia – ZV Zámok o 11:00 · Žiar nad Hronom: · 13:30 – Kostol sedembolestnej P. Márie, · Pondelok · 29.6.2026 17:00 sv. liturgia · kaplnka CUP Zvolen · Svätí, slávni a všechválni najvyšší apoštoli Peter a Pavol · Myrovanie. Prikázaný sviatok. · Utorok · 30.6.2026 · Streda · 1.7.2026 · Štvrtok · 2.7.2026 Cez týžden čerpanie dovolenky, v súrnych prípadoch zastupuje · o. Ján Krupa z BB 0908 677 658 · Piatok · 3.7.2026 · Sobota · 4",
+      "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – jún 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · V Žiari nad Hronom najbližšie sv. liturgia v nedeľu – 28.6.2026 o 13:30 – Kostol sedembolestnej P. Márie, · Program prosíme overiť deň pred sv. liturgiou tu na stránke . · Dátum Čas Miesto sv. liturgie · Nedeľa · 28.6.2026 11:00 Nedeľa 5. týždňa po Päťdesiatnici · sv. liturgia – ZV Zámok o 11:00 · Žiar nad Hronom: · 13:30 – Kostol sedembolestnej P. Márie, · Zbierka na dobročinné diela sv. Otca. · Pondelok · 29.6.2026 17:00 sv. liturgia · kaplnka CUP Zvolen · Svätí, slávni a všechválni najvyšší apoštoli Peter a Pavol · Myrovanie. Prikázaný sviatok. · Utorok · 30.6.2026 · Streda · 1.7.2026 · Štvrtok · 2.7.2026 Cez týžden čerpanie dovolenky, v súrnych prípadoch zastupuje · o. Ján Krupa z BB 0908 ",
       "documents": [
         {
           "url": "https://www.grkat.sk/wp-content//uploads/2025/10/Mapa-grekokatolicke-farnosti-2024-2.jpg",
@@ -266,8 +266,8 @@
       ]
     },
     "cup-zvolen": {
-      "ok": false,
-      "error": "Stránku sa nepodarilo stiahnuť: fetch failed",
+      "ok": true,
+      "error": null,
       "title": "Program 2022 - CUP Zvolen",
       "textHash": "466398d56960f789e84f3aa22a8e5e6ec16ffe911fc657b56073c0f5585e4472",
       "fingerprint": "a78e17e2a00b0182cb51582c4dfd40b8efa5c9ccd9ea4bf53ec523cde133ab65",

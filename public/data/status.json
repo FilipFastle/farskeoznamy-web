@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T22:33:07.756Z",
+  "generatedAt": "2026-06-28T06:39:40.080Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -30,8 +30,8 @@
       ]
     },
     "zvolen-sekier": {
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "Stránku sa nepodarilo stiahnuť: fetch failed",
       "title": "Farnosť Božského srdca Ježišovho – Farské oznamy",
       "textHash": "8c8b508576adb05d38db53f45593febfb9b7610e4fe7a23380c80bf9cb2dea2d",
       "fingerprint": "d023bb0bd165b2aabb716a6d6830827ae2bd48f6d2129b34c58f1170dac50758",
@@ -138,8 +138,8 @@
       ]
     },
     "zvolen-zapad": {
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "Stránku sa nepodarilo stiahnuť: fetch failed",
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
       "textHash": "6be36b4c14ec2de7c4e468d2e366ed6e7da984462d4cf7c6abd6f294466e62b7",
       "fingerprint": "6f0f84c3294fa3ae26a3e14407c6e41c415eb127f8440d517e17cc9d8be57e16",
@@ -166,8 +166,8 @@
       ]
     },
     "grkat-zvolen": {
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "Stránku sa nepodarilo stiahnuť: fetch failed",
       "title": "Gréckokatolícka farnosť Zvolen -",
       "textHash": "6b4bd412a2eae2b22d5e301b54491dda19510e685c45f53352c624d535b8401e",
       "fingerprint": "c974ed1822fdc98482af57839161e05e49e83aa63efcb46eb9a43d037b830bb5",
@@ -266,8 +266,8 @@
       ]
     },
     "cup-zvolen": {
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "Stránku sa nepodarilo stiahnuť: fetch failed",
       "title": "Program 2022 - CUP Zvolen",
       "textHash": "466398d56960f789e84f3aa22a8e5e6ec16ffe911fc657b56073c0f5585e4472",
       "fingerprint": "a78e17e2a00b0182cb51582c4dfd40b8efa5c9ccd9ea4bf53ec523cde133ab65",

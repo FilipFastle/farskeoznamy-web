@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "at": "2026-06-28T06:39:40.080Z",
+      "parishId": "zvolen-sekier",
+      "kind": "error",
+      "summary": "stránka prestala byť dostupná"
+    },
+    {
+      "at": "2026-06-28T06:39:40.080Z",
+      "parishId": "zvolen-zapad",
+      "kind": "error",
+      "summary": "stránka prestala byť dostupná"
+    },
+    {
+      "at": "2026-06-28T06:39:40.080Z",
+      "parishId": "grkat-zvolen",
+      "kind": "error",
+      "summary": "stránka prestala byť dostupná"
+    },
+    {
+      "at": "2026-06-28T06:39:40.080Z",
+      "parishId": "cup-zvolen",
+      "kind": "error",
+      "summary": "stránka prestala byť dostupná"
+    },
+    {
       "at": "2026-06-27T22:33:07.756Z",
       "parishId": "zvolen-sekier",
       "kind": "update",

@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "at": "2026-06-29T14:30:55.121Z",
+      "parishId": "grkat-zvolen",
+      "kind": "update",
+      "summary": "aktualizovaný text oznamov"
+    },
+    {
       "at": "2026-06-29T10:01:25.131Z",
       "parishId": "grkat-zvolen",
       "kind": "recovered",

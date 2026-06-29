@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "at": "2026-06-29T05:06:24.057Z",
+      "parishId": "grkat-zvolen",
+      "kind": "error",
+      "summary": "stránka prestala byť dostupná"
+    },
+    {
       "at": "2026-06-28T17:39:10.627Z",
       "parishId": "zvolen-zapad",
       "kind": "update",

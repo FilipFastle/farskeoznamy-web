@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T05:06:24.057Z",
+  "generatedAt": "2026-06-29T10:01:25.131Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -166,8 +166,8 @@
       ]
     },
     "grkat-zvolen": {
-      "ok": false,
-      "error": "Stránku sa nepodarilo stiahnuť: fetch failed",
+      "ok": true,
+      "error": null,
       "title": "Gréckokatolícka farnosť Zvolen -",
       "textHash": "cb28d408397fc26430f278e071329b48d609d95c1fd3bb7dd814ec44a33bdec6",
       "fingerprint": "83b03031a7324b59f5fa468e1104847ca8e3b064e53af64e66d3e952fe20e8ad",

@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "at": "2026-07-08T11:59:24.332Z",
+      "parishId": "cup-zvolen",
+      "kind": "error",
+      "summary": "stránka prestala byť dostupná"
+    },
+    {
       "at": "2026-07-05T20:32:48.530Z",
       "parishId": "zvolen-zapad",
       "kind": "update",

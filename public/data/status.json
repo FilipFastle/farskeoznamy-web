@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T20:32:48.530Z",
+  "generatedAt": "2026-07-08T11:59:24.332Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -258,8 +258,8 @@
       ]
     },
     "cup-zvolen": {
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "Stránku sa nepodarilo stiahnuť: HTTP 503",
       "title": "Program 2022 - CUP Zvolen",
       "textHash": "466398d56960f789e84f3aa22a8e5e6ec16ffe911fc657b56073c0f5585e4472",
       "fingerprint": "a78e17e2a00b0182cb51582c4dfd40b8efa5c9ccd9ea4bf53ec523cde133ab65",

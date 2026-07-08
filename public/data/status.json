@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T11:59:24.332Z",
+  "generatedAt": "2026-07-08T14:44:23.986Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -169,9 +169,9 @@
       "ok": true,
       "error": null,
       "title": "Gréckokatolícka farnosť Zvolen -",
-      "textHash": "cb5052226695a0d0e65282b23c777bf2587754cc057484e770ffff8b2052243d",
-      "fingerprint": "4d93de441b26002bdbe0ddb49658a30c5cdf5cc88fd92f0ba909ba11187ca7a9",
-      "changedAt": "2026-07-04T22:15:28.064Z",
+      "textHash": "729488e65cd2856de36ebf394cfda1a4c656650dc56ab995f474cf02ae8db55e",
+      "fingerprint": "a93cc5d0d3d9798037d3ed0d5d4b3b0bd370597cfff7ea1f91a143a02942a26d",
+      "changedAt": "2026-07-08T14:44:23.986Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – júl 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · V Žiari nad Hronom najbližšie sv. liturgia v nedeľu – 28.6.2026 o 13:30 – Kostol sedembolestnej P. Márie, · Program prosíme overiť deň pred sv. liturgiou tu na stránke . · Dátum Čas Miesto sv. liturgie · Nedeľa · 5.7.2026 09:00 · sv. liturgia – ZV Zámok · Nedeľa 6. týždňa po Päťdesiatnici · Svätí apoštolom rovní Cyril a Metod, učitelia Slovanov · Pondelok · 6.7.2026 18:00 sv. liturgia · kaplnka CUP Zvolen · Utorok · 7.7.2026 Kňazské stretnutie Banskobystrického protopresbyterátu. · Streda · 8.7.2026 18:00 sv. liturgia · kaplnka CUP Zvolen · Štvrtok · 9.7.2026 · Piatok · 10.7.2026 · Sobota · 11.7.2026 · Nedeľa · 12.7.2026 Vo Zvolene sv. liturgia 12.7. nebude. · Pozývame: V nedeľu 12. 07. o 11:0",
       "documents": [
@@ -192,20 +192,20 @@
           "changedAt": "2026-06-12T18:21:56.006Z"
         },
         {
+          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/07/image.png",
+          "type": "image",
+          "label": "image.png",
+          "hash": "c9d1a122241ff2d12c1fe53a17a62584a628d373d90527d44fc4ae254fd4d481",
+          "bytes": 14582,
+          "changedAt": "2026-07-08T14:44:23.986Z"
+        },
+        {
           "url": "https://www.grkatzv.sk/wp-content/uploads/2026/06/image-1024x647.jpg",
           "type": "image",
           "label": "image-1024x647.jpg",
           "hash": "2bb9f79391b217bb807f70064d9c6eac36427e9b67692b328d6f307f01e04df0",
           "bytes": 128100,
           "changedAt": "2026-06-27T22:33:07.756Z"
-        },
-        {
-          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/04/vizual.jpeg",
-          "type": "image",
-          "label": "vizual.jpeg",
-          "hash": "fae7d75f9813937f9301e23c39c755f69995c954b3c986db547f3cddbbb78e26",
-          "bytes": 349176,
-          "changedAt": "2026-06-12T18:21:56.006Z"
         },
         {
           "url": "https://www.grkatzv.sk/wp-content/uploads/2026/06/SLOVO-poster-uprava.jpg",
@@ -258,8 +258,8 @@
       ]
     },
     "cup-zvolen": {
-      "ok": false,
-      "error": "Stránku sa nepodarilo stiahnuť: HTTP 503",
+      "ok": true,
+      "error": null,
       "title": "Program 2022 - CUP Zvolen",
       "textHash": "466398d56960f789e84f3aa22a8e5e6ec16ffe911fc657b56073c0f5585e4472",
       "fingerprint": "a78e17e2a00b0182cb51582c4dfd40b8efa5c9ccd9ea4bf53ec523cde133ab65",

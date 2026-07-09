@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T14:44:23.986Z",
+  "generatedAt": "2026-07-09T08:49:27.955Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -169,11 +169,11 @@
       "ok": true,
       "error": null,
       "title": "Gréckokatolícka farnosť Zvolen -",
-      "textHash": "729488e65cd2856de36ebf394cfda1a4c656650dc56ab995f474cf02ae8db55e",
-      "fingerprint": "a93cc5d0d3d9798037d3ed0d5d4b3b0bd370597cfff7ea1f91a143a02942a26d",
-      "changedAt": "2026-07-08T14:44:23.986Z",
+      "textHash": "4cf40d874e486ab0f38228925c5b51edb1b4b4b859c608449da2ca7dbd359d08",
+      "fingerprint": "65c40267de9221a19b4debe1a1a125ed985759da6851eb00fabc73542f3b0be1",
+      "changedAt": "2026-07-09T08:49:27.955Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – júl 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · V Žiari nad Hronom najbližšie sv. liturgia v nedeľu – 28.6.2026 o 13:30 – Kostol sedembolestnej P. Márie, · Program prosíme overiť deň pred sv. liturgiou tu na stránke . · Dátum Čas Miesto sv. liturgie · Nedeľa · 5.7.2026 09:00 · sv. liturgia – ZV Zámok · Nedeľa 6. týždňa po Päťdesiatnici · Svätí apoštolom rovní Cyril a Metod, učitelia Slovanov · Pondelok · 6.7.2026 18:00 sv. liturgia · kaplnka CUP Zvolen · Utorok · 7.7.2026 Kňazské stretnutie Banskobystrického protopresbyterátu. · Streda · 8.7.2026 18:00 sv. liturgia · kaplnka CUP Zvolen · Štvrtok · 9.7.2026 · Piatok · 10.7.2026 · Sobota · 11.7.2026 · Nedeľa · 12.7.2026 Vo Zvolene sv. liturgia 12.7. nebude. · Pozývame: V nedeľu 12. 07. o 11:0",
+      "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – júl 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · V Žiari nad Hronom najbližšie sv. liturgia v nedeľu – 28.6.2026 o 13:30 – Kostol sedembolestnej P. Márie, · Program prosíme overiť deň pred sv. liturgiou tu na stránke . · Dátum Čas Miesto sv. liturgie · Pondelok · 6.7.2026 18:00 sv. liturgia · kaplnka CUP Zvolen · Utorok · 7.7.2026 Kňazské stretnutie Banskobystrického protopresbyterátu. · Streda · 8.7.2026 18:00 sv. liturgia · kaplnka CUP Zvolen · Štvrtok · 9.7.2026 · Piatok · 10.7.2026 · Cez od 9.7. do 16.7 som na konferencii Nové svitanie, · v súrnych prípadoch zastupuje · o. Ján Krupa z BB 0908 677 658 · Sobota · 11.7.2026 · Nedeľa · 12.7.2026 Vo Zvolene sv. liturgia 12.7. nebude. · Pozývame: V nedeľu 12. 07. o 11:00 hodine bude sláviť arc",
       "documents": [
         {
           "url": "https://www.grkat.sk/wp-content//uploads/2025/10/Mapa-grekokatolicke-farnosti-2024-2.jpg",
@@ -190,6 +190,14 @@
           "hash": "2592f776f1dac227ace53f9f46b0d82d8e7bee277d04b40d49179e70129c85a0",
           "bytes": 2359088,
           "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/06/Plagat-A4.jpeg",
+          "type": "image",
+          "label": "Plagat-A4.jpeg",
+          "hash": "aacf7e4adbd6ea74166c43b5ab44663b5751c7188350cd4de61ea3888e517e00",
+          "bytes": 95103,
+          "changedAt": "2026-06-13T12:06:05.264Z"
         },
         {
           "url": "https://www.grkatzv.sk/wp-content/uploads/2026/07/image.png",
@@ -214,14 +222,6 @@
           "hash": "13799eb64b2d297f05cc1e2c40c097a7a3ab40ac094de6ff4e022a326048d5da",
           "bytes": 497896,
           "changedAt": "2026-06-12T18:21:56.006Z"
-        },
-        {
-          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/06/Plagat-A4.jpeg",
-          "type": "image",
-          "label": "Plagat-A4.jpeg",
-          "hash": "aacf7e4adbd6ea74166c43b5ab44663b5751c7188350cd4de61ea3888e517e00",
-          "bytes": 95103,
-          "changedAt": "2026-06-13T12:06:05.264Z"
         },
         {
           "url": "https://www.grkatzv.sk/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-12-at-12.51.40.jpeg",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T07:04:33.339Z",
+  "generatedAt": "2026-07-12T19:35:28.699Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -142,18 +142,18 @@
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
       "textHash": "2691b39c3b54ba53cfbb1385836ea0995aafec3a4fb7cafd73eaed5f40258a33",
-      "fingerprint": "a49782aff1a942b11310ab60f8af09dc4ebb25ba721c47a9f67f62fc61e3301b",
-      "changedAt": "2026-07-05T20:32:48.530Z",
+      "fingerprint": "013a32b58f303e48fea9de99d0c51c4b9a061e78a74a3673bb52548dab64fc6c",
+      "changedAt": "2026-07-12T19:35:28.699Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Národný pochod za život · „Drahí veriaci, milí priatelia, srdečne Vás pozývam na duchovnú prípravu na Národný pochod za život. Prvou témou duchovnej prípravy je prekonanie ľahostajnosti. Človek sa môže dostať do situácie, že sa mu nechce. Čo urobiť pre to, aby som chcel, aj keď sa mi spontánne...",
       "documents": [
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/07/14.-nedela-document.pdf",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/07/15.-nedela.pdf",
           "type": "pdf",
-          "label": "14.-nedela-document.pdf",
-          "hash": "20d79946054d327063875240eb43892aacec5ad0c96cb9927304c12b3e6fda29",
-          "bytes": 186461,
-          "changedAt": "2026-07-05T20:32:48.530Z"
+          "label": "15.-nedela.pdf",
+          "hash": "195f9477c72c238d5a7022e2d17d72730d26bca6d887cfd62318c8e616e06585",
+          "bytes": 186674,
+          "changedAt": "2026-07-12T19:35:28.699Z"
         },
         {
           "url": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400,h_250/https://farnostzvolenzapad.sk/wp-content/uploads/2026/06/Narodny-pochod-za-zivot-plagat-400x250.jpg",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T22:13:31.430Z",
+  "generatedAt": "2026-07-26T21:14:44.167Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -142,18 +142,18 @@
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
       "textHash": "2691b39c3b54ba53cfbb1385836ea0995aafec3a4fb7cafd73eaed5f40258a33",
-      "fingerprint": "7db872df9995d22e51852100ba0a81bb7ccbecd0e1c8206e03ebef13c07334c2",
-      "changedAt": "2026-07-19T21:10:18.197Z",
+      "fingerprint": "0988cd0bf2303d4ad06b8a9b503dc1334207464373e98dc6e625c241c1bde160",
+      "changedAt": "2026-07-26T21:14:44.167Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Národný pochod za život · „Drahí veriaci, milí priatelia, srdečne Vás pozývam na duchovnú prípravu na Národný pochod za život. Prvou témou duchovnej prípravy je prekonanie ľahostajnosti. Človek sa môže dostať do situácie, že sa mu nechce. Čo urobiť pre to, aby som chcel, aj keď sa mi spontánne...",
       "documents": [
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/07/16.-nedela-document.pdf",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/07/17.-nedela-document-1.pdf",
           "type": "pdf",
-          "label": "16.-nedela-document.pdf",
-          "hash": "b4717078564dc693dcac3fd59f800a49fcd1433806e467b4a889b8c81859a957",
-          "bytes": 182871,
-          "changedAt": "2026-07-19T21:10:18.197Z"
+          "label": "17.-nedela-document-1.pdf",
+          "hash": "6eea31b5a8f0bfdd0086ba192889841b2529be034e96c5a4b5ae024dc86f3d75",
+          "bytes": 188287,
+          "changedAt": "2026-07-26T21:14:44.167Z"
         },
         {
           "url": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400,h_250/https://farnostzvolenzapad.sk/wp-content/uploads/2026/06/Narodny-pochod-za-zivot-plagat-400x250.jpg",

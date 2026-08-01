@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T21:14:44.167Z",
+  "generatedAt": "2026-08-01T14:02:30.875Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -141,11 +141,11 @@
       "ok": true,
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
-      "textHash": "2691b39c3b54ba53cfbb1385836ea0995aafec3a4fb7cafd73eaed5f40258a33",
-      "fingerprint": "0988cd0bf2303d4ad06b8a9b503dc1334207464373e98dc6e625c241c1bde160",
-      "changedAt": "2026-07-26T21:14:44.167Z",
+      "textHash": "758b2b2653dd4f809a4adae023d0e95389b621b7e5ad0df962371a7e7f91a20b",
+      "fingerprint": "9b6681dac0af3a8b51dc8b7662d44c684ca5a64f875a19f1a27343e2defe7b14",
+      "changedAt": "2026-08-01T14:02:30.875Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Národný pochod za život · „Drahí veriaci, milí priatelia, srdečne Vás pozývam na duchovnú prípravu na Národný pochod za život. Prvou témou duchovnej prípravy je prekonanie ľahostajnosti. Človek sa môže dostať do situácie, že sa mu nechce. Čo urobiť pre to, aby som chcel, aj keď sa mi spontánne...",
+      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Farský deň – slávnosť sv. Dominika · Srdečne vás pozývame na oslavu sviatku patróna nášho kostola – svätého Dominika. Počas víkendu spoločne prežijeme farský deň plný stretnutí, programu pre deti, spoločného obeda a predovšetkým slávenia svätej omše, pri ktorej budeme ďakovať Bohu za dar viery a...",
       "documents": [
         {
           "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/07/17.-nedela-document-1.pdf",
@@ -156,12 +156,12 @@
           "changedAt": "2026-07-26T21:14:44.167Z"
         },
         {
-          "url": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400,h_250/https://farnostzvolenzapad.sk/wp-content/uploads/2026/06/Narodny-pochod-za-zivot-plagat-400x250.jpg",
+          "url": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400,h_250/https://farnostzvolenzapad.sk/wp-content/uploads/2026/08/Plagat-den-farnosti-Zvolen-Zapad-2026-400x250.jpg",
           "type": "image",
-          "label": "Narodny-pochod-za-zivot-plagat-400x250.jpg",
-          "hash": "b39a2dbcb4a2709c7397908115a844a7e559678a5c20616b8c8e554142561cc8",
-          "bytes": 16902,
-          "changedAt": "2026-06-28T10:09:50.657Z"
+          "label": "Plagat-den-farnosti-Zvolen-Zapad-2026-400x250.jpg",
+          "hash": "52cdf360a193ae0444e5c70f4d528b8912214ffd3a5ede08c5213aa409728d71",
+          "bytes": 25269,
+          "changedAt": "2026-08-01T14:02:30.875Z"
         }
       ]
     },

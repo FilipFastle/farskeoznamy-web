@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T22:14:24.104Z",
+  "generatedAt": "2026-08-02T21:13:29.161Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -142,18 +142,18 @@
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
       "textHash": "758b2b2653dd4f809a4adae023d0e95389b621b7e5ad0df962371a7e7f91a20b",
-      "fingerprint": "9b6681dac0af3a8b51dc8b7662d44c684ca5a64f875a19f1a27343e2defe7b14",
-      "changedAt": "2026-08-01T14:02:30.875Z",
+      "fingerprint": "c43c4ee85385bfdd2bdbddde1fd40513847a457d68485ba34558c9c843e55d8a",
+      "changedAt": "2026-08-02T21:13:29.161Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Farský deň – slávnosť sv. Dominika · Srdečne vás pozývame na oslavu sviatku patróna nášho kostola – svätého Dominika. Počas víkendu spoločne prežijeme farský deň plný stretnutí, programu pre deti, spoločného obeda a predovšetkým slávenia svätej omše, pri ktorej budeme ďakovať Bohu za dar viery a...",
       "documents": [
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/07/17.-nedela-document-1.pdf",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/08/18.-nedela-document.pdf",
           "type": "pdf",
-          "label": "17.-nedela-document-1.pdf",
-          "hash": "6eea31b5a8f0bfdd0086ba192889841b2529be034e96c5a4b5ae024dc86f3d75",
-          "bytes": 188287,
-          "changedAt": "2026-07-26T21:14:44.167Z"
+          "label": "18.-nedela-document.pdf",
+          "hash": "9d8c85b993f7f443ad002da929efe842b43abbaaabb56bafec8e65a642538412",
+          "bytes": 190458,
+          "changedAt": "2026-08-02T21:13:29.161Z"
         },
         {
           "url": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400,h_250/https://farnostzvolenzapad.sk/wp-content/uploads/2026/08/Plagat-den-farnosti-Zvolen-Zapad-2026-400x250.jpg",

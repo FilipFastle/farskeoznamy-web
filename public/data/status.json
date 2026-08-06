@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T07:08:14.736Z",
+  "generatedAt": "2026-08-06T10:03:29.912Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -166,12 +166,12 @@
       ]
     },
     "grkat-zvolen": {
-      "ok": false,
-      "error": "Stránku sa nepodarilo stiahnuť: fetch failed",
+      "ok": true,
+      "error": null,
       "title": "Gréckokatolícka farnosť Zvolen -",
-      "textHash": "38c201cebef4ee315048f5902512b126c209e2d9f7a190c97b961dddc82b4ddc",
-      "fingerprint": "e8fe747e1b991485bc62ae02ea43d972ddbd970050800b4efadbcec59acd32f1",
-      "changedAt": "2026-08-01T19:39:02.359Z",
+      "textHash": "4ffe0fc3233fb8b76b67afe3a59cf1fb3d93948db64025947a3a7e36d7021ad0",
+      "fingerprint": "d2b016f919d78b8e2310e08db88ef1c14c9b9525b9bb08ba491b5d56b49e45b4",
+      "changedAt": "2026-08-06T10:03:29.912Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – júl 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · V Žiari nad Hronom najbližšie sv. liturgia v nedeľu – 26.7.2026 o 13:00 – Kostol sedembolestnej P. Márie, · Odpustovú slávnosť farnosti Zvolen – sv. Jánovi Evanjelistovi, bude v nedeľu 27.9.2025 o 11:00 na Zámku vo Zvolene , a po sv. liturgii by bol potom obed celej farnosti. · Program prosíme overiť deň pred sv. liturgiou tu na stránke . · Dátum Čas Miesto sv. liturgie · Nedeľa · 2.8.2026 11:00 Nedeľa 10. týždňa po Päťdesiatnici · 11:00 sv. liturgia – ZV Zámok · Pondelok · 3.8.2026 09:00 sv. liturgia – kaplnka CUP Zvolen · Utorok · 4.8.2026 18:00 sv. liturgia – kaplnka CUP Zvolen · Streda · 5.8.2026 09:00 sv. liturgia – kaplnka CUP Zvolen · Štvrtok · 6.8.2026 18:00 sv. liturgia – kaplnka CUP ",
       "documents": [

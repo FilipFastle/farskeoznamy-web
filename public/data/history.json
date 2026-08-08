@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "at": "2026-08-08T22:51:44.541Z",
+      "parishId": "zvolen-sekier",
+      "kind": "update",
+      "summary": "aktualizovaný text oznamov; nový dokument: 09082026.jpg; odstránený dokument: 31052026.jpg"
+    },
+    {
+      "at": "2026-08-08T22:51:44.541Z",
+      "parishId": "grkat-zvolen",
+      "kind": "update",
+      "summary": "aktualizovaný text oznamov"
+    },
+    {
       "at": "2026-08-07T09:27:19.125Z",
       "parishId": "grkat-zvolen",
       "kind": "update",

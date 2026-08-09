@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T22:51:44.541Z",
+  "generatedAt": "2026-08-09T06:03:35.649Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -141,11 +141,11 @@
       "ok": true,
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
-      "textHash": "758b2b2653dd4f809a4adae023d0e95389b621b7e5ad0df962371a7e7f91a20b",
-      "fingerprint": "c43c4ee85385bfdd2bdbddde1fd40513847a457d68485ba34558c9c843e55d8a",
-      "changedAt": "2026-08-02T21:13:29.161Z",
+      "textHash": "422c4a7953bae0278fc561537ddacbe87757fab5804e96d92b2e3f6fcc01ee62",
+      "fingerprint": "7e8b88776a54f90b60aac5779fbb164518ee64b7f88c0d8e8e81143b91f112f3",
+      "changedAt": "2026-08-09T06:03:35.649Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Farský deň – slávnosť sv. Dominika · Srdečne vás pozývame na oslavu sviatku patróna nášho kostola – svätého Dominika. Počas víkendu spoločne prežijeme farský deň plný stretnutí, programu pre deti, spoločného obeda a predovšetkým slávenia svätej omše, pri ktorej budeme ďakovať Bohu za dar viery a...",
+      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Prosba o pomoc: Tepelná izolácia a maľovanie nášho kostola · Firma Stavres s.r.o. počas obhliadky kostola, ktorá sa uskutočnila 15. 5. 2026, dospela k záveru, že kostol je zo spodnej časti obvodových múrov suchý, až na 3 stĺpy, kde bola vlhkosť mierne zvýšená. Tam odporúčajú spraviť chemickú injektáž v rozsahu cca 4 bm,...",
       "documents": [
         {
           "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/08/18.-nedela-document.pdf",
@@ -156,12 +156,12 @@
           "changedAt": "2026-08-02T21:13:29.161Z"
         },
         {
-          "url": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400,h_250/https://farnostzvolenzapad.sk/wp-content/uploads/2026/08/Plagat-den-farnosti-Zvolen-Zapad-2026-400x250.jpg",
+          "url": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400,h_250/https://farnostzvolenzapad.sk/wp-content/uploads/2020/12/Kostol-Sv.-Dominika-Zvolen-Zapad-400x250.jpg",
           "type": "image",
-          "label": "Plagat-den-farnosti-Zvolen-Zapad-2026-400x250.jpg",
-          "hash": "52cdf360a193ae0444e5c70f4d528b8912214ffd3a5ede08c5213aa409728d71",
-          "bytes": 25269,
-          "changedAt": "2026-08-01T14:02:30.875Z"
+          "label": "Kostol-Sv.-Dominika-Zvolen-Zapad-400x250.jpg",
+          "hash": "b87df303122496e909dfbad117b8e782fa01aa9a519d606777c76008397cf9fb",
+          "bytes": 16492,
+          "changedAt": "2026-08-09T06:03:35.649Z"
         }
       ]
     },

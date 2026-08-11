@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T15:26:48.551Z",
+  "generatedAt": "2026-08-11T17:23:01.225Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -142,18 +142,18 @@
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
       "textHash": "422c4a7953bae0278fc561537ddacbe87757fab5804e96d92b2e3f6fcc01ee62",
-      "fingerprint": "7e8b88776a54f90b60aac5779fbb164518ee64b7f88c0d8e8e81143b91f112f3",
-      "changedAt": "2026-08-09T06:03:35.649Z",
+      "fingerprint": "1a88733a7d3123b17f98dbb7358a1dd01a49ff2789dd6cad491bc99a60e84110",
+      "changedAt": "2026-08-11T17:23:01.225Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Prosba o pomoc: Tepelná izolácia a maľovanie nášho kostola · Firma Stavres s.r.o. počas obhliadky kostola, ktorá sa uskutočnila 15. 5. 2026, dospela k záveru, že kostol je zo spodnej časti obvodových múrov suchý, až na 3 stĺpy, kde bola vlhkosť mierne zvýšená. Tam odporúčajú spraviť chemickú injektáž v rozsahu cca 4 bm,...",
       "documents": [
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/08/18.-nedela-document.pdf",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/08/19.-nedela-document.pdf",
           "type": "pdf",
-          "label": "18.-nedela-document.pdf",
-          "hash": "9d8c85b993f7f443ad002da929efe842b43abbaaabb56bafec8e65a642538412",
-          "bytes": 190458,
-          "changedAt": "2026-08-02T21:13:29.161Z"
+          "label": "19.-nedela-document.pdf",
+          "hash": "ac3de27b75dc73a816fd59e5e8bf4f835c5dc55d0303736e2a058f7269453d9d",
+          "bytes": 189156,
+          "changedAt": "2026-08-11T17:23:01.225Z"
         },
         {
           "url": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400,h_250/https://farnostzvolenzapad.sk/wp-content/uploads/2020/12/Kostol-Sv.-Dominika-Zvolen-Zapad-400x250.jpg",

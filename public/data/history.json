@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "at": "2026-08-11T17:23:01.225Z",
+      "parishId": "zvolen-zapad",
+      "kind": "update",
+      "summary": "nový dokument: 19.-nedela-document.pdf; odstránený dokument: 18.-nedela-document.pdf"
+    },
+    {
       "at": "2026-08-10T15:26:48.551Z",
       "parishId": "grkat-zvolen",
       "kind": "update",

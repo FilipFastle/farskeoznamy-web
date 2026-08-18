@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "at": "2026-08-18T03:12:20.088Z",
+      "parishId": "zvolen-mesto",
+      "kind": "recovered",
+      "summary": "stránka je opäť dostupná"
+    },
+    {
       "at": "2026-08-18T01:54:28.930Z",
       "parishId": "zvolen-mesto",
       "kind": "error",

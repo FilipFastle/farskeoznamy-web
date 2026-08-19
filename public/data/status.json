@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T21:45:19.378Z",
+  "generatedAt": "2026-08-19T22:45:53.474Z",
   "parishes": {
     "zvolen-mesto": {
-      "ok": false,
-      "error": "Stránku sa nepodarilo stiahnuť: fetch failed",
+      "ok": true,
+      "error": null,
       "title": "Farské oznamy | Farazv",
       "textHash": "c866249b329dc1033b28449e8d18b0e5d6b72fcae679ad181d2290ea44ee13bd",
       "fingerprint": "b7d72a3298802e354737588107427cf5c5b85f8a0edeb506213cf36bc8d3d1a7",

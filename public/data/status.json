@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T13:05:27.230Z",
+  "generatedAt": "2026-08-22T18:52:50.616Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -33,11 +33,11 @@
       "ok": true,
       "error": null,
       "title": "Farnosť Božského srdca Ježišovho – Farské oznamy",
-      "textHash": "c8fd0a938bea337b8c9af5e3676a2dbdbbb077e2b72315515126de767fb58a6f",
-      "fingerprint": "50ebad7fdce189164046908885e16ce8e55b6754d1fdfdc0b34e0f6042a95a28",
-      "changedAt": "2026-08-15T22:42:34.086Z",
+      "textHash": "15f71fb17228989a218fd42561d6d464876d504bd443731b41373ffd04893208",
+      "fingerprint": "9ee99d8a64d866dd5f2095a851b21381f2e3576191dac2148a0fe6c8954419aa",
+      "changedAt": "2026-08-22T18:52:50.616Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Príležitostné oznamy · Púť Assisi - Rím - Padova / Základné informácie · Zverejnené 28.03.2026. · Po Veľkej noci 2026 bude spustená registrácia záujemcov o účať na farskej púti do Assisi, Ríma a Padovy, ktorá je naplánovaná v termíne od 4.10. do 10.10.2026 . V tomto príspevku sa dočítate všetky potrebné informácie. Priebežne dopĺňané... · Čítať ďalej » · Darujte 2% z daní pre občianske združenie COR · Zverejnené 08.03.2026. · COR, oz je registrované ako mládežnícke združenie, ktoré pomáha pri výchove detí a mládeže. Jeho činnosť v našej farnosti netreba nejako zvlášť predstavovať. O vaše 2% z daní sa uchádza už od roku 2006 a sme vám vďační za vašu podporu. Každoročne nám pomáhate pri našej práci, nech vám Boh odmení vašu štedrosť. · Čítať ďalej » · Aktuálne farské oznamy · Archív farských oznamov · 20. nedeľa v Období cez rok (16. 08. 2026) · 19. nedeľa v Období cez rok (09. 08. 2026) ·",
+      "excerpt": "Príležitostné oznamy · Púť Assisi - Rím - Padova / Základné informácie · Zverejnené 28.03.2026. · Po Veľkej noci 2026 bude spustená registrácia záujemcov o účať na farskej púti do Assisi, Ríma a Padovy, ktorá je naplánovaná v termíne od 4.10. do 10.10.2026 . V tomto príspevku sa dočítate všetky potrebné informácie. Priebežne dopĺňané... · Čítať ďalej » · Darujte 2% z daní pre občianske združenie COR · Zverejnené 08.03.2026. · COR, oz je registrované ako mládežnícke združenie, ktoré pomáha pri výchove detí a mládeže. Jeho činnosť v našej farnosti netreba nejako zvlášť predstavovať. O vaše 2% z daní sa uchádza už od roku 2006 a sme vám vďační za vašu podporu. Každoročne nám pomáhate pri našej práci, nech vám Boh odmení vašu štedrosť. · Čítať ďalej » · Aktuálne farské oznamy · Archív farských oznamov · Ďalší obsah · Liturgia dňa · Pastierske listy · Správy TkKBS · (roluj ponad správy pre zo",
       "documents": [
         {
           "url": "https://www.farasekier.sk/userfiles/downloads/bb-250-konferencia-program.pdf",
@@ -56,84 +56,12 @@
           "changedAt": "2026-06-12T18:21:56.006Z"
         },
         {
-          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/16082026.jpg",
+          "url": "https://www.farasekier.sk/userfiles/images/clanky/google-maps.png",
           "type": "image",
-          "label": "16082026.jpg",
-          "hash": "76c9773eab6bb15964ab30627c313bc98ce9ce52ee7a9c8241cfca0d7a497cc3",
-          "bytes": 845442,
-          "changedAt": "2026-08-15T22:42:34.086Z"
-        },
-        {
-          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/09082026.jpg",
-          "type": "image",
-          "label": "09082026.jpg",
-          "hash": "be0616a72907ddf42aa422ac41e8cbcc980efc586c0a6fdb75cb9853e6020fce",
-          "bytes": 814295,
-          "changedAt": "2026-08-08T22:51:44.541Z"
-        },
-        {
-          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/02082026.jpg",
-          "type": "image",
-          "label": "02082026.jpg",
-          "hash": "f7176ffd97bb7def3f4c5658d82afa4332668d7987df99543428cd45fcf14211",
-          "bytes": 901496,
-          "changedAt": "2026-08-01T22:14:24.104Z"
-        },
-        {
-          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/26072026.jpg",
-          "type": "image",
-          "label": "26072026.jpg",
-          "hash": "f51626511594edaf9289d2f77c7f2d5624ab9bf457f17501a4998866d05b473b",
-          "bytes": 1283735,
-          "changedAt": "2026-07-25T22:13:31.430Z"
-        },
-        {
-          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/19072026.jpg",
-          "type": "image",
-          "label": "19072026.jpg",
-          "hash": "874304203c3245774492bf04cf3d151ab783b72ffa50296fb77553dd55a21b2c",
-          "bytes": 801321,
-          "changedAt": "2026-07-18T22:10:17.838Z"
-        },
-        {
-          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/12072026.jpg",
-          "type": "image",
-          "label": "12072026.jpg",
-          "hash": "bf03c63aa911cb52507de2a15f0ea6a0f2f10d3fb666ccef78d864cbae95c5a2",
-          "bytes": 912776,
-          "changedAt": "2026-07-11T22:10:57.013Z"
-        },
-        {
-          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/05072026.jpg",
-          "type": "image",
-          "label": "05072026.jpg",
-          "hash": "3071ddfeac713a3940cd600331b3e25b8918ccfb2e10146967fe35f7f3fc8618",
-          "bytes": 964512,
-          "changedAt": "2026-07-04T22:15:28.064Z"
-        },
-        {
-          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/28062026.jpg",
-          "type": "image",
-          "label": "28062026.jpg",
-          "hash": "a7e4cbd3f9d7042ced1b0f44153ac6a3594842800d03a2f3bf79c4cc59c7f6d1",
-          "bytes": 1021514,
-          "changedAt": "2026-06-27T22:33:07.756Z"
-        },
-        {
-          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/21062026.jpg",
-          "type": "image",
-          "label": "21062026.jpg",
-          "hash": "365a18f9bcd9da5453026d74d04f14358884c20605f60cd0cc8f34194693d4ad",
-          "bytes": 993115,
-          "changedAt": "2026-06-20T22:38:01.417Z"
-        },
-        {
-          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/14062026.jpg",
-          "type": "image",
-          "label": "14062026.jpg",
-          "hash": "0bb9d812ac196474e2d27c329512da9dfcb276973f71ba9fad32b39d0a9e80c3",
-          "bytes": 966936,
-          "changedAt": "2026-06-13T22:33:16.828Z"
+          "label": "google-maps.png",
+          "hash": "8dbce5b96f783c1f9424d6b34ed9ae48b2002bcd3173dabdc3f669ded510030a",
+          "bytes": 584966,
+          "changedAt": "2026-08-22T18:52:50.616Z"
         }
       ]
     },

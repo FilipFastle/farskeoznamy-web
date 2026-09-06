@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T06:03:35.113Z",
+  "generatedAt": "2026-09-06T17:08:39.038Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -33,9 +33,9 @@
       "ok": true,
       "error": null,
       "title": "Farnosť Božského srdca Ježišovho – Farské oznamy",
-      "textHash": "5996f394ed642cc1d920163badc4a73ca22f5993b2c371d633200e33f3a9ca87",
-      "fingerprint": "1af328eda0547eddb707dcd7fa91a382efce6e6849ea2bd42b238ebe93fb9ec8",
-      "changedAt": "2026-09-05T23:03:57.990Z",
+      "textHash": "7b490cad611269f289f27b6f00dfd4d5a5f1286ffe054dc9f6486d187fe7dbc5",
+      "fingerprint": "9c775acaaaf34143e149dc0f91cf12c2fc23bc7104e023abb213142147c8dae0",
+      "changedAt": "2026-09-06T17:08:39.038Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Príležitostné oznamy · Púť Assisi - Rím - Padova / Základné informácie · Zverejnené 28.03.2026. · Po Veľkej noci 2026 bude spustená registrácia záujemcov o účať na farskej púti do Assisi, Ríma a Padovy, ktorá je naplánovaná v termíne od 4.10. do 10.10.2026 . V tomto príspevku sa dočítate všetky potrebné informácie. Priebežne dopĺňané... · Čítať ďalej » · Darujte 2% z daní pre občianske združenie COR · Zverejnené 08.03.2026. · COR, oz je registrované ako mládežnícke združenie, ktoré pomáha pri výchove detí a mládeže. Jeho činnosť v našej farnosti netreba nejako zvlášť predstavovať. O vaše 2% z daní sa uchádza už od roku 2006 a sme vám vďační za vašu podporu. Každoročne nám pomáhate pri našej práci, nech vám Boh odmení vašu štedrosť. · Čítať ďalej » · Aktuálne farské oznamy · Archív farských oznamov · 23. nedeľa v Období cez rok (06. 09. 2026) · 22. nedeľa v Období cez rok (30. 08. 2026) ·",
       "documents": [
@@ -80,12 +80,60 @@
           "changedAt": "2026-08-22T22:42:35.844Z"
         },
         {
-          "url": "https://www.farasekier.sk/userfiles/images/clanky/google-maps.png",
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/16082026.jpg",
           "type": "image",
-          "label": "google-maps.png",
-          "hash": "8dbce5b96f783c1f9424d6b34ed9ae48b2002bcd3173dabdc3f669ded510030a",
-          "bytes": 584966,
-          "changedAt": "2026-08-22T18:52:50.616Z"
+          "label": "16082026.jpg",
+          "hash": "76c9773eab6bb15964ab30627c313bc98ce9ce52ee7a9c8241cfca0d7a497cc3",
+          "bytes": 845442,
+          "changedAt": "2026-09-06T17:08:39.038Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/09082026.jpg",
+          "type": "image",
+          "label": "09082026.jpg",
+          "hash": "be0616a72907ddf42aa422ac41e8cbcc980efc586c0a6fdb75cb9853e6020fce",
+          "bytes": 814295,
+          "changedAt": "2026-09-06T17:08:39.038Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/02082026.jpg",
+          "type": "image",
+          "label": "02082026.jpg",
+          "hash": "f7176ffd97bb7def3f4c5658d82afa4332668d7987df99543428cd45fcf14211",
+          "bytes": 901496,
+          "changedAt": "2026-09-06T17:08:39.038Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/26072026.jpg",
+          "type": "image",
+          "label": "26072026.jpg",
+          "hash": "f51626511594edaf9289d2f77c7f2d5624ab9bf457f17501a4998866d05b473b",
+          "bytes": 1283735,
+          "changedAt": "2026-09-06T17:08:39.038Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/19072026.jpg",
+          "type": "image",
+          "label": "19072026.jpg",
+          "hash": "874304203c3245774492bf04cf3d151ab783b72ffa50296fb77553dd55a21b2c",
+          "bytes": 801321,
+          "changedAt": "2026-09-06T17:08:39.038Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/12072026.jpg",
+          "type": "image",
+          "label": "12072026.jpg",
+          "hash": "bf03c63aa911cb52507de2a15f0ea6a0f2f10d3fb666ccef78d864cbae95c5a2",
+          "bytes": 912776,
+          "changedAt": "2026-09-06T17:08:39.038Z"
+        },
+        {
+          "url": "https://www.farasekier.sk/userfiles/downloads/oznamy/05072026.jpg",
+          "type": "image",
+          "label": "05072026.jpg",
+          "hash": "3071ddfeac713a3940cd600331b3e25b8918ccfb2e10146967fe35f7f3fc8618",
+          "bytes": 964512,
+          "changedAt": "2026-09-06T17:08:39.038Z"
         }
       ]
     },

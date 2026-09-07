@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "at": "2026-09-07T10:29:21.603Z",
+      "parishId": "zvolen-zapad",
+      "kind": "update",
+      "summary": "aktualizovaný text oznamov; nový dokument: 23.-nedela-document.pdf; nový dokument: Sv.-prijimanie-400x250.jpg; odstránený dokument: 22.-nedela-document.pdf; odstránený dokument: Kostol-Sv.-Dominika-Zvolen-Zapad-400x250.jpg"
+    },
+    {
       "at": "2026-09-06T17:08:39.038Z",
       "parishId": "zvolen-sekier",
       "kind": "update",

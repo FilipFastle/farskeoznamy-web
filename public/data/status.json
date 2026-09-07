@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T17:08:39.038Z",
+  "generatedAt": "2026-09-07T10:29:21.603Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -141,27 +141,27 @@
       "ok": true,
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
-      "textHash": "422c4a7953bae0278fc561537ddacbe87757fab5804e96d92b2e3f6fcc01ee62",
-      "fingerprint": "f691f6206c78f8527b775a6560c5cc949e6813dd4b1e33834c6e1b95e6c9c454",
-      "changedAt": "2026-08-31T14:07:49.435Z",
+      "textHash": "6001c8645756a0caa3246bdacd8db79b0bb812ff78e34bf0b251e3b8304f2255",
+      "fingerprint": "4ade4d7881896bbb2aaf85b589a00e7108510bfbe062e66eccecf9bb85809ca9",
+      "changedAt": "2026-09-07T10:29:21.603Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Prosba o pomoc: Tepelná izolácia a maľovanie nášho kostola · Firma Stavres s.r.o. počas obhliadky kostola, ktorá sa uskutočnila 15. 5. 2026, dospela k záveru, že kostol je zo spodnej časti obvodových múrov suchý, až na 3 stĺpy, kde bola vlhkosť mierne zvýšená. Tam odporúčajú spraviť chemickú injektáž v rozsahu cca 4 bm,...",
+      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Prihlasovanie na prvé sv. prijímanie · Rodičia, ktorých deti navštevujú 3. ročník ZŠ a chceli by, aby ich deti pristúpili k prvému sv. prijímaniu v našej farnosti, nech vyplnia prihlášku, ktorú nájdete na našej webovej stránke farnosti alebo v sakristii, a osobne ju odovzdajú do 30. septembra 2026 na fare...",
       "documents": [
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/08/22.-nedela-document.pdf",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/09/23.-nedela-document.pdf",
           "type": "pdf",
-          "label": "22.-nedela-document.pdf",
-          "hash": "0bdabae9be27c74a14a4e4c09393661133fe20153e3cbc785fd9f6b72a94a856",
-          "bytes": 189588,
-          "changedAt": "2026-08-31T14:07:49.435Z"
+          "label": "23.-nedela-document.pdf",
+          "hash": "b5111e2c3fceaf9d614859c3d102487c47fe9efdd2946c09995dbfca9dc6fc11",
+          "bytes": 191216,
+          "changedAt": "2026-09-07T10:29:21.603Z"
         },
         {
-          "url": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400,h_250/https://farnostzvolenzapad.sk/wp-content/uploads/2020/12/Kostol-Sv.-Dominika-Zvolen-Zapad-400x250.jpg",
+          "url": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400,h_250/https://farnostzvolenzapad.sk/wp-content/uploads/2022/03/Sv.-prijimanie-400x250.jpg",
           "type": "image",
-          "label": "Kostol-Sv.-Dominika-Zvolen-Zapad-400x250.jpg",
-          "hash": "b87df303122496e909dfbad117b8e782fa01aa9a519d606777c76008397cf9fb",
-          "bytes": 16492,
-          "changedAt": "2026-08-09T06:03:35.649Z"
+          "label": "Sv.-prijimanie-400x250.jpg",
+          "hash": "5b95d73cc4f7cf07a6ce2982ea183ee57c67022f1ffda52590aacfc81e3c5a45",
+          "bytes": 13669,
+          "changedAt": "2026-09-07T10:29:21.603Z"
         }
       ]
     },

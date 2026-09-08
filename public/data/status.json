@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T18:48:39.551Z",
+  "generatedAt": "2026-09-08T21:55:39.510Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -169,9 +169,9 @@
       "ok": true,
       "error": null,
       "title": "Gréckokatolícka farnosť Zvolen -",
-      "textHash": "369366f83997a72b015dbe211eecc6e7366a7b47f12758448b224358593fa524",
-      "fingerprint": "98c6a693d26501951f944e55b5352077b117a16e99194759a5bd7a0bdc68435b",
-      "changedAt": "2026-09-05T21:22:09.699Z",
+      "textHash": "03cc48d6bea3c155f80498be884e6ebb6a28c3ae177bee357add095825542564",
+      "fingerprint": "78d53690567d4898be4f2758a046a575d0b30231cc224e6175964854d4066d40",
+      "changedAt": "2026-09-08T21:55:39.510Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – september 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · V Žiari nad Hronom najbližšie sv. liturgia bude v nedeľu – 6.9.2026 o 13:30 – Kostol sedembolestnej P. Márie, · Odpustovú slávnosť farnosti Zvolen – sv. Jánovi Evanjelistovi, bude v nedeľu 27.9.2025 o 11:00 na Zámku vo Zvolene , a po sv. liturgii by bol potom obed celej farnosti – prihlásených na salaši Hron Kováčová. · Dátum Čas Miesto sv. liturgie · Nedeľa · 6.9.2026 11:00 Nedeľa 15. týždňa po Päťdesiatnici · 11:00 sv. liturgia – ZV Zámok · 13:30 sv. liturgia – Žiar nad Hronom – Kostol sedembolestnej P. Márie, · Pondelok · 7.9.2026 · Utorok · 8.9.2026 18:00 sv. liturgia – CUP kaplnka vedľa Hotela Franko · Narodenie našej presvätej Vládkyne, Bohorodičky Márie, vždy Panny · Myrovanie. · ",
       "documents": [
@@ -190,6 +190,14 @@
           "hash": "2592f776f1dac227ace53f9f46b0d82d8e7bee277d04b40d49179e70129c85a0",
           "bytes": 2359088,
           "changedAt": "2026-06-12T18:21:56.006Z"
+        },
+        {
+          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/09/image-1.png",
+          "type": "image",
+          "label": "image-1.png",
+          "hash": "87082a368324bbcba2fdd4cea81158fa6fe60009de9ec1d9454131d2e1aaba7b",
+          "bytes": 315342,
+          "changedAt": "2026-09-08T21:55:39.510Z"
         },
         {
           "url": "https://www.grkatzv.sk/wp-content/uploads/2026/09/image-724x1024.png",

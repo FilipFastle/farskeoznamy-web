@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T10:29:21.603Z",
+  "generatedAt": "2026-09-08T18:48:39.551Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -141,11 +141,11 @@
       "ok": true,
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
-      "textHash": "6001c8645756a0caa3246bdacd8db79b0bb812ff78e34bf0b251e3b8304f2255",
-      "fingerprint": "4ade4d7881896bbb2aaf85b589a00e7108510bfbe062e66eccecf9bb85809ca9",
-      "changedAt": "2026-09-07T10:29:21.603Z",
+      "textHash": "5c02f486a1cabd2480b89d23604fbb9a0638e735f45abf84b5dd5c9950ec720d",
+      "fingerprint": "b99358ebccc26cd60e051c4bb609b952a488973e7c1baa1a48a714cd63eacc6c",
+      "changedAt": "2026-09-08T18:48:39.551Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Prihlasovanie na prvé sv. prijímanie · Rodičia, ktorých deti navštevujú 3. ročník ZŠ a chceli by, aby ich deti pristúpili k prvému sv. prijímaniu v našej farnosti, nech vyplnia prihlášku, ktorú nájdete na našej webovej stránke farnosti alebo v sakristii, a osobne ju odovzdajú do 30. septembra 2026 na fare...",
+      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Spolubratia v kňazskej službe, milí bratia a sestry, veriaci nášho dekanátu, obraciame sa na Vás s úprimnou prosbou o pomoc pre našu farnosť Tŕnie. Náš farský Kostol sv. Martina stojí ako tichý svedok viery už dlhé stáročia. Hoci presný rok jeho postavenia nepoznáme,...",
       "documents": [
         {
           "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/09/23.-nedela-document.pdf",
@@ -156,12 +156,12 @@
           "changedAt": "2026-09-07T10:29:21.603Z"
         },
         {
-          "url": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400,h_250/https://farnostzvolenzapad.sk/wp-content/uploads/2022/03/Sv.-prijimanie-400x250.jpg",
+          "url": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400,h_250/https://farnostzvolenzapad.sk/wp-content/uploads/2026/09/kostol-sv.-martina-e1788888618724-400x250.jpg",
           "type": "image",
-          "label": "Sv.-prijimanie-400x250.jpg",
-          "hash": "5b95d73cc4f7cf07a6ce2982ea183ee57c67022f1ffda52590aacfc81e3c5a45",
-          "bytes": 13669,
-          "changedAt": "2026-09-07T10:29:21.603Z"
+          "label": "kostol-sv.-martina-e1788888618724-400x250.jpg",
+          "hash": "0ffda080f6d0d0436dd7521575e410795c4680d237a32b3e60518512050ba359",
+          "bytes": 11726,
+          "changedAt": "2026-09-08T18:48:39.551Z"
         }
       ]
     },

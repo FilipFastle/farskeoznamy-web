@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T19:32:51.385Z",
+  "generatedAt": "2026-09-14T14:14:54.338Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -141,27 +141,27 @@
       "ok": true,
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
-      "textHash": "5c02f486a1cabd2480b89d23604fbb9a0638e735f45abf84b5dd5c9950ec720d",
-      "fingerprint": "b99358ebccc26cd60e051c4bb609b952a488973e7c1baa1a48a714cd63eacc6c",
-      "changedAt": "2026-09-08T18:48:39.551Z",
+      "textHash": "422c4a7953bae0278fc561537ddacbe87757fab5804e96d92b2e3f6fcc01ee62",
+      "fingerprint": "9bf439daa0ac9bf6e3a6e3a039c227adcd8dac400bc1c7b87787dd5108b25810",
+      "changedAt": "2026-09-14T14:14:54.338Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Spolubratia v kňazskej službe, milí bratia a sestry, veriaci nášho dekanátu, obraciame sa na Vás s úprimnou prosbou o pomoc pre našu farnosť Tŕnie. Náš farský Kostol sv. Martina stojí ako tichý svedok viery už dlhé stáročia. Hoci presný rok jeho postavenia nepoznáme,...",
+      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Prosba o pomoc: Tepelná izolácia a maľovanie nášho kostola · Firma Stavres s.r.o. počas obhliadky kostola, ktorá sa uskutočnila 15. 5. 2026, dospela k záveru, že kostol je zo spodnej časti obvodových múrov suchý, až na 3 stĺpy, kde bola vlhkosť mierne zvýšená. Tam odporúčajú spraviť chemickú injektáž v rozsahu cca 4 bm,...",
       "documents": [
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/09/23.-nedela-document.pdf",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/09/24.-nedela-document.pdf",
           "type": "pdf",
-          "label": "23.-nedela-document.pdf",
-          "hash": "b5111e2c3fceaf9d614859c3d102487c47fe9efdd2946c09995dbfca9dc6fc11",
-          "bytes": 191216,
-          "changedAt": "2026-09-07T10:29:21.603Z"
+          "label": "24.-nedela-document.pdf",
+          "hash": "109ddf329e51ae3221af864b9d2419b559a7fbe49ebc3c7ab6239b165fbceeda",
+          "bytes": 191879,
+          "changedAt": "2026-09-14T14:14:54.338Z"
         },
         {
-          "url": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_400,h_250/https://farnostzvolenzapad.sk/wp-content/uploads/2026/09/kostol-sv.-martina-e1788888618724-400x250.jpg",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2020/12/Kostol-Sv.-Dominika-Zvolen-Zapad-400x250.jpg",
           "type": "image",
-          "label": "kostol-sv.-martina-e1788888618724-400x250.jpg",
-          "hash": "0ffda080f6d0d0436dd7521575e410795c4680d237a32b3e60518512050ba359",
-          "bytes": 11726,
-          "changedAt": "2026-09-08T18:48:39.551Z"
+          "label": "Kostol-Sv.-Dominika-Zvolen-Zapad-400x250.jpg",
+          "hash": "b87df303122496e909dfbad117b8e782fa01aa9a519d606777c76008397cf9fb",
+          "bytes": 16492,
+          "changedAt": "2026-09-14T14:14:54.338Z"
         }
       ]
     },
@@ -169,9 +169,9 @@
       "ok": true,
       "error": null,
       "title": "Gréckokatolícka farnosť Zvolen -",
-      "textHash": "a5533157905a2f3b6a214dc4fec5344998c751cb7f51801214d4b75ae84519e6",
-      "fingerprint": "180dc68ebda1b96c0c8c602b9e65e4781becf9f4663432b04c8046e53fd6bcfd",
-      "changedAt": "2026-09-13T19:32:51.385Z",
+      "textHash": "670cff6f64bfccb1fb7362943e3414e9fdbbd694fa2197748f6f975419918954",
+      "fingerprint": "b33016f4e5bf5904e2a15582c84af4479105979982a51f417ba5b16543e1dfee",
+      "changedAt": "2026-09-14T14:14:54.338Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – september 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · V Žiari nad Hronom najbližšie sv. liturgia bude v nedeľu – 20.9.2026 o 13:30 – Kostol sedembolestnej P. Márie, · Odpustová slávnosť farnosti Zvolen – sv. Jánovi Evanjelistovi, bude · v nedeľu 27.9.2025 o 11:00 na Zámku vo Zvolene , · príde vladyka Milan Lach, SJ, náš eparchiálny biskup. · Po sv. liturgii by bol potom obed celej farnosti. · Dátum Čas Miesto sv. liturgie · Nedeľa · 13.9.2026 11:00 Nedeľa 16. týždňa po Päťdesiatnici · 11:00 sv. liturgia – ZV Zámok · Pondelok · 14.9.2026 17:00 sv. liturgia – CUP kaplnka vedľa Hotela Franko · Povýšenie úctyhodného a životodarného Kríža nad celým svetom · Myrovanie. · Odporúčaný sviatok. · Zdržanlivosť od mäsa · Utorok · 15.9.2026 09:00 sv. li",
       "documents": [

@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-21T06:32:25.795Z",
+  "generatedAt": "2026-09-21T14:20:37.024Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
       "error": null,
       "title": "Farské oznamy | Farazv",
-      "textHash": "8308b2f13a288e49f6d03a1656dbafd61bb158e05ff09fffaad8f66acb32d5e2",
-      "fingerprint": "a3486bfc07cfb62ff3c8f5fa84ed2b97d871b6f3d594a5e9a30cd432807f32f8",
-      "changedAt": "2026-09-19T18:08:49.605Z",
+      "textHash": "943a6787fe71e0855e9ba97afce931a567a94b67f0431fffbf2a2dbe359b3ea5",
+      "fingerprint": "8fdcc519381b4f6c71fa5a410e246f6d970b32ed12ff58330c004b9b85c7dbae",
+      "changedAt": "2026-09-21T14:20:37.024Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy · Rozpis svätých omší · Nedeľa · 20. septembra 2026 · 25. NEDEĽA V CEZROČNOM OBDOBÍ SLÁVNOSŤ · 7:00 · Líška · + Jozef a Anna, rodičia Katarína a Imrich · 8:45 · Kraus · Lieskovec + Ľubomír, Radomír, Pavol, Marcela · 9:00 · Kaniansky · Farská Za farnosť · 10:30 · Líška · Poďakovanie za 35 r spoločného života Ondrej a Alenku · 19:00 · dominikán · + Anna, rodičia Kataríny a Jozefa, svokrovcov Máriu a Pavla · Pondelok · 21. septembra 2026 · SV. MATÚŠA, APOŠTOLA A EVANJELISTU SVIATOK · 6:30 · Kraus · + rodičia Magdaléna a Cyril Murínovci, Gizela a Ján Šterbínski · 12:00 · Kaniansky · + Milan Drugda, rodina Bendíková a Bérešová · 18:00 · Líška · + Emil, Milka a Kamil · Utorok · 22. septembra 2026 · UTOROK 25. TÝŽDŇA V CEZROČNOM OBDOBÍ · 6:30 · Líška · + otec Michal · 12:00 · Kaniansky · + sestry Oľgu a Danielu · 18:00 · Kraus · Za úmysly prosieb ku sv. Šarbelovi · Streda · 23. se",
+      "excerpt": "Farské oznamy · Rozpis svätých omší · Nedeľa · 20. septembra 2026 · 25. NEDEĽA V CEZROČNOM OBDOBÍ SLÁVNOSŤ · 7:00 · Líška · + Jozef a Anna, rodičia Katarína a Imrich · 8:45 · Kraus · Lieskovec + Ľubomír, Radomír, Pavol, Marcela · 9:00 · Kaniansky · Farská Za farnosť · 10:30 · Líška · Poďakovanie za 35 r spoločného života Ondrej a Alenku · 19:00 · dominikán · + Anna, rodičia Kataríny a Jozefa, svokrovcov Máriu a Pavla · Pondelok · 21. septembra 2026 · SV. MATÚŠA, APOŠTOLA A EVANJELISTU SVIATOK · 6:30 · Kraus · + rodičia Magdaléna a Cyril Murínovci, Gizela a Ján Šterbínski · 12:00 · Líška · + Milan Drugda, rodina Bendíková a Bérešová · 18:00 · Kaniansky · + Emil, Milka a Kamil · Utorok · 22. septembra 2026 · UTOROK 25. TÝŽDŇA V CEZROČNOM OBDOBÍ · 6:30 · Líška · + otec Michal · 12:00 · Kaniansky · + sestry Oľgu a Danielu · 18:00 · Kraus · Za úmysly prosieb ku sv. Šarbelovi · Streda · 23. se",
       "documents": [
         {
           "url": "https://farazv.sk/static/e76dd9793aca7fd24b95daa615ace686/f81df/Elektronicky_zvoncek_QR_4c67f36694.jpg",
@@ -142,18 +142,18 @@
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
       "textHash": "422c4a7953bae0278fc561537ddacbe87757fab5804e96d92b2e3f6fcc01ee62",
-      "fingerprint": "9bf439daa0ac9bf6e3a6e3a039c227adcd8dac400bc1c7b87787dd5108b25810",
-      "changedAt": "2026-09-14T14:14:54.338Z",
+      "fingerprint": "48e372e26fe3b47c259938938c84662ad87206dbabe719347ea0889cb200d0cb",
+      "changedAt": "2026-09-21T14:20:37.024Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Prosba o pomoc: Tepelná izolácia a maľovanie nášho kostola · Firma Stavres s.r.o. počas obhliadky kostola, ktorá sa uskutočnila 15. 5. 2026, dospela k záveru, že kostol je zo spodnej časti obvodových múrov suchý, až na 3 stĺpy, kde bola vlhkosť mierne zvýšená. Tam odporúčajú spraviť chemickú injektáž v rozsahu cca 4 bm,...",
       "documents": [
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/09/24.-nedela-document.pdf",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/09/25.-nedela-document.pdf",
           "type": "pdf",
-          "label": "24.-nedela-document.pdf",
-          "hash": "109ddf329e51ae3221af864b9d2419b559a7fbe49ebc3c7ab6239b165fbceeda",
-          "bytes": 191879,
-          "changedAt": "2026-09-14T14:14:54.338Z"
+          "label": "25.-nedela-document.pdf",
+          "hash": "6c8396c2ffa7bc09a9cd99f5149d70df3af45389dbf97861b276c0b337694171",
+          "bytes": 185308,
+          "changedAt": "2026-09-21T14:20:37.024Z"
         },
         {
           "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2020/12/Kostol-Sv.-Dominika-Zvolen-Zapad-400x250.jpg",

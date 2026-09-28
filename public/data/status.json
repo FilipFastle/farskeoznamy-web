@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T15:38:43.123Z",
+  "generatedAt": "2026-09-28T22:09:01.822Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -70,18 +70,18 @@
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
       "textHash": "422c4a7953bae0278fc561537ddacbe87757fab5804e96d92b2e3f6fcc01ee62",
-      "fingerprint": "48e372e26fe3b47c259938938c84662ad87206dbabe719347ea0889cb200d0cb",
-      "changedAt": "2026-09-21T14:20:37.024Z",
+      "fingerprint": "b06a5f66b7cb01fde47b9b96209c9f749c57cc9b24df9885eb43d845ceed7cdb",
+      "changedAt": "2026-09-28T22:09:01.822Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Prosba o pomoc: Tepelná izolácia a maľovanie nášho kostola · Firma Stavres s.r.o. počas obhliadky kostola, ktorá sa uskutočnila 15. 5. 2026, dospela k záveru, že kostol je zo spodnej časti obvodových múrov suchý, až na 3 stĺpy, kde bola vlhkosť mierne zvýšená. Tam odporúčajú spraviť chemickú injektáž v rozsahu cca 4 bm,...",
       "documents": [
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/09/25.-nedela-document.pdf",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/09/26.-nedela-document.pdf",
           "type": "pdf",
-          "label": "25.-nedela-document.pdf",
-          "hash": "6c8396c2ffa7bc09a9cd99f5149d70df3af45389dbf97861b276c0b337694171",
-          "bytes": 185308,
-          "changedAt": "2026-09-21T14:20:37.024Z"
+          "label": "26.-nedela-document.pdf",
+          "hash": "9e56a1c5a24e7059542f2914e50b49a91dfabf49683f3516b0033964cfaf99d7",
+          "bytes": 187348,
+          "changedAt": "2026-09-28T22:09:01.822Z"
         },
         {
           "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2020/12/Kostol-Sv.-Dominika-Zvolen-Zapad-400x250.jpg",

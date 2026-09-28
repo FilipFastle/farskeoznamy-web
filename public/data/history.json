@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "at": "2026-09-28T15:38:43.123Z",
+      "parishId": "zvolen-sekier",
+      "kind": "update",
+      "summary": "aktualizovaný text oznamov; nový dokument: google-maps.png; odstránený dokument: 27092026.jpg; odstránený dokument: 20092026.jpg; odstránený dokument: 13092026.jpg; odstránený dokument: 06092026.jpg; odstránený dokument: 30082026.jpg; odstránený dokument: 23082026.jpg; odstránený dokument: 16082026.jpg; odstránený dokument: 09082026.jpg; odstránený dokument: 02082026.jpg; odstránený dokument: 26072026.jpg"
+    },
+    {
       "at": "2026-09-27T08:21:11.797Z",
       "parishId": "zvolen-mesto",
       "kind": "update",

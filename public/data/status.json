@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T22:09:01.822Z",
+  "generatedAt": "2026-09-30T19:29:21.742Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -69,11 +69,11 @@
       "ok": true,
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
-      "textHash": "422c4a7953bae0278fc561537ddacbe87757fab5804e96d92b2e3f6fcc01ee62",
-      "fingerprint": "b06a5f66b7cb01fde47b9b96209c9f749c57cc9b24df9885eb43d845ceed7cdb",
-      "changedAt": "2026-09-28T22:09:01.822Z",
+      "textHash": "22b4eed9843455bb7b606f42e373a6ecc407924000071fbeefa8207c195a5f81",
+      "fingerprint": "f7cb5dac3fc57b747320b1a36e687812eb051c2c01eb5ddb55d76f184baf86a2",
+      "changedAt": "2026-09-30T19:29:21.742Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Prosba o pomoc: Tepelná izolácia a maľovanie nášho kostola · Firma Stavres s.r.o. počas obhliadky kostola, ktorá sa uskutočnila 15. 5. 2026, dospela k záveru, že kostol je zo spodnej časti obvodových múrov suchý, až na 3 stĺpy, kde bola vlhkosť mierne zvýšená. Tam odporúčajú spraviť chemickú injektáž v rozsahu cca 4 bm,...",
+      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Odpustová slávnosť Ružencovej Panny Márie · Pozývame vás na nasledovný program v našom kostole: 5. – 9. OKTÓBRA 2026 Téma kázní pri večerných omšiach:Radostné tajomstvá posv. ruženca a náš životKazateľ: fr. Matúš Kušnír, OP 10. OKTÓBRA (SOBOTA): 17.00 – radostný ruženec s rozjímaním18.00 – sv. omša s uvedením...",
       "documents": [
         {
           "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/09/26.-nedela-document.pdf",
@@ -84,12 +84,12 @@
           "changedAt": "2026-09-28T22:09:01.822Z"
         },
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2020/12/Kostol-Sv.-Dominika-Zvolen-Zapad-400x250.jpg",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/09/Ruzencova-Panna-Maria-267x250.png",
           "type": "image",
-          "label": "Kostol-Sv.-Dominika-Zvolen-Zapad-400x250.jpg",
-          "hash": "b87df303122496e909dfbad117b8e782fa01aa9a519d606777c76008397cf9fb",
-          "bytes": 16492,
-          "changedAt": "2026-09-14T14:14:54.338Z"
+          "label": "Ruzencova-Panna-Maria-267x250.png",
+          "hash": "e2d6796468b926d1b94dd5d8e49d500cb055a1c00a53524521c2e0019aea9f80",
+          "bytes": 116837,
+          "changedAt": "2026-09-30T19:29:21.742Z"
         }
       ]
     },

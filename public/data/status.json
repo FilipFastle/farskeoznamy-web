@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T19:29:21.742Z",
+  "generatedAt": "2026-10-01T13:32:42.821Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -97,11 +97,11 @@
       "ok": true,
       "error": null,
       "title": "Gréckokatolícka farnosť Zvolen -",
-      "textHash": "45dd402c1b338e6d8d972edcbbdeacf710ee91aca2a0401427ff3fa8e8557f28",
-      "fingerprint": "afc4df54f2e20e209cdf27659bf5d6f22c81dc7a0b883b73998cf05132529cfa",
-      "changedAt": "2026-09-26T19:57:25.619Z",
+      "textHash": "286b3ea6477d9dc884ff578b4923a9db697b9623424cad692dc34be8836f516b",
+      "fingerprint": "a900c8de164a1d49c2c751631e34816b1e54fb928ba0c28af5be0751b2e77d58",
+      "changedAt": "2026-10-01T13:32:42.821Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – september 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · V Žiari nad Hronom najbližšie sv. liturgia bude v nedeľu – .doplníme …2026 o 13:30 – Kostol sedembolestnej P. Márie, · Pozývame: odpustová slávnosť farnosti Zvolen – sv. Jánovi Evanjelistovi, bude · v nedeľu 27.9.2025 o 11:00 na Zámku vo Zvolene, · príde vladyka Milan Lach, SJ, náš eparchiálny biskup. · Dátum Čas Miesto sv. liturgie · Nedeľa · 27.9.2026 11:00 Nedeľa 18. týždňa po Päťdesiatnici · 11:00 sv. liturgia – ZV Zámok · Odpustová slávnosť – vladyka Milan Lach SJ · Myrovanie · Pondelok · 28.9.2026 09:00 sv. liturgia – CUP kaplnka vedľa Hotela Franko · Utorok · 29.9.2026 — Kňazský deň v Badíne · Streda · 30.9.2026 09:00 sv. liturgia – CUP kaplnka vedľa Hotela Franko · Štvrtok · 1.10",
+      "excerpt": "Gréckokatolícka farnosť Zvolen s filialkou Žiar n. Hronom · Liturgický program – október 2026 · Jurisdikčné územie (okresy): Zvolen, Banská Štiavnica, Krupina, Veľký Krtíš, Žarnovica, Žiar nad Hronom · V Žiari nad Hronom najbližšie sv. liturgia bude v nedeľu – .doplníme …2026 o 13:30 – Kostol sedembolestnej P. Márie, · Prihlásenie sa pre odbery, oznamy farnosti (google formulár): forms.gle/UUvscjjD32gKEWJz6 · Dátum Čas Miesto sv. liturgie · Nedeľa · 27.9.2026 11:00 Nedeľa 18. týždňa po Päťdesiatnici · 11:00 sv. liturgia – ZV Zámok · Odpustová slávnosť – vladyka Milan Lach SJ · Myrovanie · Pondelok · 28.9.2026 09:00 sv. liturgia – CUP kaplnka vedľa Hotela Franko · Utorok · 29.9.2026 — Kňazský deň v Badíne · Streda · 30.9.2026 09:00 sv. liturgia – CUP kaplnka vedľa Hotela Franko · Štvrtok · 1.10.2026 17:00 sv. liturgia – CUP kaplnka vedľa Hotela Franko · Presvätá Bohorodička Ochrankyňa · O",
       "documents": [
         {
           "url": "https://www.grkat.sk/wp-content//uploads/2025/10/Mapa-grekokatolicke-farnosti-2024-2.jpg",
@@ -120,6 +120,14 @@
           "changedAt": "2026-06-12T18:21:56.006Z"
         },
         {
+          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/10/Plagat-Kytillomethodeon.jpg",
+          "type": "image",
+          "label": "Plagat-Kytillomethodeon.jpg",
+          "hash": "5985c9797fb3baa1bfb227072c3b57702305c1aa4a8de50e59d18d5f4ce40782",
+          "bytes": 208130,
+          "changedAt": "2026-10-01T13:32:42.821Z"
+        },
+        {
           "url": "https://www.grkatzv.sk/wp-content/uploads/2026/09/image-1.png",
           "type": "image",
           "label": "image-1.png",
@@ -128,36 +136,12 @@
           "changedAt": "2026-09-08T21:55:39.510Z"
         },
         {
-          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/09/image-724x1024.png",
-          "type": "image",
-          "label": "image-724x1024.png",
-          "hash": "4cdeb996f3095a8f91ae0df2bfb752460b4d67eea619151409f89ba9f3c1044a",
-          "bytes": 684085,
-          "changedAt": "2026-09-05T21:22:09.699Z"
-        },
-        {
           "url": "https://www.grkatzv.sk/wp-content/uploads/2026/08/image.png",
           "type": "image",
           "label": "image.png",
           "hash": "826f34900178f63aa1f7971a52c5564c24f64ade49937c71f8e182ed05353f13",
           "bytes": 497965,
           "changedAt": "2026-08-24T20:53:28.642Z"
-        },
-        {
-          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/06/Plagat-A4.jpeg",
-          "type": "image",
-          "label": "Plagat-A4.jpeg",
-          "hash": "aacf7e4adbd6ea74166c43b5ab44663b5751c7188350cd4de61ea3888e517e00",
-          "bytes": 95103,
-          "changedAt": "2026-06-13T12:06:05.264Z"
-        },
-        {
-          "url": "https://www.grkatzv.sk/wp-content/uploads/2026/06/DUCHOVNA-PRIPRAVA-na-NARODNY-POCHOD-ZA-ZIVOT-2026.jpg",
-          "type": "image",
-          "label": "DUCHOVNA-PRIPRAVA-na-NARODNY-POCHOD-ZA-ZIVOT-2026.jpg",
-          "hash": "ca6ad3673726503770d302273158cf450b5214615897e15fb2af3d3909117321",
-          "bytes": 234503,
-          "changedAt": "2026-06-13T12:06:05.264Z"
         },
         {
           "url": "https://www.grkatzv.sk/wp-content/uploads/2026/05/image-1024x441.jpg",

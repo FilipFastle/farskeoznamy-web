@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T23:57:44.138Z",
+  "generatedAt": "2026-10-02T12:51:19.086Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -69,11 +69,11 @@
       "ok": true,
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
-      "textHash": "22b4eed9843455bb7b606f42e373a6ecc407924000071fbeefa8207c195a5f81",
-      "fingerprint": "f7cb5dac3fc57b747320b1a36e687812eb051c2c01eb5ddb55d76f184baf86a2",
-      "changedAt": "2026-09-30T19:29:21.742Z",
+      "textHash": "e278207bd242f5cd651cfedfdd7a517cae9bb028b10974c5a7c70a62af87e5a9",
+      "fingerprint": "4f497b82fc43b9622b1a129c20af9ffb86cb2422770ba008b18fea3c44ca6761",
+      "changedAt": "2026-10-02T12:51:19.086Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Odpustová slávnosť Ružencovej Panny Márie · Pozývame vás na nasledovný program v našom kostole: 5. – 9. OKTÓBRA 2026 Téma kázní pri večerných omšiach:Radostné tajomstvá posv. ruženca a náš životKazateľ: fr. Matúš Kušnír, OP 10. OKTÓBRA (SOBOTA): 17.00 – radostný ruženec s rozjímaním18.00 – sv. omša s uvedením...",
+      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Pozvanie na konferenciu: Muž má konať · Ponúkame Vám pozvanie na konferenciu: Muž má konať. [2] Pozývame vás na konferenciu pre mužov s názvom: Muž má konať!Ktorá sa uskutoční 16. a 17.10. v Bratislave. Je určená tým,ktorí chcú svoj život naplniť a medzi rečníkmi bude pomocnýBiskup Jozef Haľko, ktorý nám...",
       "documents": [
         {
           "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/09/26.-nedela-document.pdf",
@@ -84,12 +84,12 @@
           "changedAt": "2026-09-28T22:09:01.822Z"
         },
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/09/Ruzencova-Panna-Maria-267x250.png",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/10/Plagat-na-konferenciu-Muz-ma-konat-s-QR-kodom-400x250.png",
           "type": "image",
-          "label": "Ruzencova-Panna-Maria-267x250.png",
-          "hash": "e2d6796468b926d1b94dd5d8e49d500cb055a1c00a53524521c2e0019aea9f80",
-          "bytes": 116837,
-          "changedAt": "2026-09-30T19:29:21.742Z"
+          "label": "Plagat-na-konferenciu-Muz-ma-konat-s-QR-kodom-400x250.png",
+          "hash": "128b4b163e9c77f533d3a0a64bab6255420e17a37466c6e3601c19cded20a121",
+          "bytes": 46085,
+          "changedAt": "2026-10-02T12:51:19.086Z"
         }
       ]
     },

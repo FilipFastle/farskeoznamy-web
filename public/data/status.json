@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T16:11:25.902Z",
+  "generatedAt": "2026-10-05T22:45:53.945Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -78,18 +78,18 @@
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
       "textHash": "22b4eed9843455bb7b606f42e373a6ecc407924000071fbeefa8207c195a5f81",
-      "fingerprint": "f7cb5dac3fc57b747320b1a36e687812eb051c2c01eb5ddb55d76f184baf86a2",
-      "changedAt": "2026-10-05T16:11:25.902Z",
+      "fingerprint": "c3f82c6079acc0a0e549d514e294d674c728073bef422057b9a63d6fe324eeb8",
+      "changedAt": "2026-10-05T22:45:53.945Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
       "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Odpustová slávnosť Ružencovej Panny Márie · Pozývame vás na nasledovný program v našom kostole: 5. – 9. OKTÓBRA 2026 Téma kázní pri večerných omšiach:Radostné tajomstvá posv. ruženca a náš životKazateľ: fr. Matúš Kušnír, OP 10. OKTÓBRA (SOBOTA): 17.00 – radostný ruženec s rozjímaním18.00 – sv. omša s uvedením...",
       "documents": [
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/09/26.-nedela-document.pdf",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/10/27.-nedela-document.pdf",
           "type": "pdf",
-          "label": "26.-nedela-document.pdf",
-          "hash": "9e56a1c5a24e7059542f2914e50b49a91dfabf49683f3516b0033964cfaf99d7",
-          "bytes": 187348,
-          "changedAt": "2026-09-28T22:09:01.822Z"
+          "label": "27.-nedela-document.pdf",
+          "hash": "98f57e053cd44013217ce425ccd02a7db68dac0d29e5900fe183d72bc7690444",
+          "bytes": 184160,
+          "changedAt": "2026-10-05T22:45:53.945Z"
         },
         {
           "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/09/Ruzencova-Panna-Maria-267x250.png",

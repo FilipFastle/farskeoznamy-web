@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T22:45:53.945Z",
+  "generatedAt": "2026-10-06T10:32:30.936Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -77,11 +77,11 @@
       "ok": true,
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
-      "textHash": "22b4eed9843455bb7b606f42e373a6ecc407924000071fbeefa8207c195a5f81",
-      "fingerprint": "c3f82c6079acc0a0e549d514e294d674c728073bef422057b9a63d6fe324eeb8",
-      "changedAt": "2026-10-05T22:45:53.945Z",
+      "textHash": "0cda8ba66b3dc1555002a2b6982a08d546b6d72067fd2e2d4f12da285d2c9be3",
+      "fingerprint": "109ff9719e4e312a7b56d285131a04a4393854d1c68b9047544e12aaa35f18d8",
+      "changedAt": "2026-10-06T10:32:30.936Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Odpustová slávnosť Ružencovej Panny Márie · Pozývame vás na nasledovný program v našom kostole: 5. – 9. OKTÓBRA 2026 Téma kázní pri večerných omšiach:Radostné tajomstvá posv. ruženca a náš životKazateľ: fr. Matúš Kušnír, OP 10. OKTÓBRA (SOBOTA): 17.00 – radostný ruženec s rozjímaním18.00 – sv. omša s uvedením...",
+      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Milión detí sa modlí ruženec 6. 10. 2026 · Deti a mladí z farnosti Zvolen-Západ sa chcú zapojiť do iniciatívy Milión detí sa modlí ruženec a spoločne tak prosiť za jednotu a mier vo svete. V utorok 6. októbra o 17.15 hod., pred večernou sv. omšou sa spolu pomodlíme ruženec a povzbudíme naše deti, aby neváhali...",
       "documents": [
         {
           "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/10/27.-nedela-document.pdf",
@@ -92,12 +92,12 @@
           "changedAt": "2026-10-05T22:45:53.945Z"
         },
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/09/Ruzencova-Panna-Maria-267x250.png",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/10/Milion-deti-sa-modli-ruzenec-2026-400x250.png",
           "type": "image",
-          "label": "Ruzencova-Panna-Maria-267x250.png",
-          "hash": "e2d6796468b926d1b94dd5d8e49d500cb055a1c00a53524521c2e0019aea9f80",
-          "bytes": 116837,
-          "changedAt": "2026-10-05T16:11:25.902Z"
+          "label": "Milion-deti-sa-modli-ruzenec-2026-400x250.png",
+          "hash": "9402a625c7f48304b15950337885b0cf8927c5d8e1a914ca21d243500a3b46b6",
+          "bytes": 70102,
+          "changedAt": "2026-10-06T10:32:30.936Z"
         }
       ]
     },

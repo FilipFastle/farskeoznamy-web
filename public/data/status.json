@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T17:17:17.965Z",
+  "generatedAt": "2026-10-09T16:21:23.658Z",
   "parishes": {
     "zvolen-mesto": {
       "ok": true,
@@ -77,11 +77,11 @@
       "ok": true,
       "error": null,
       "title": "Rozpis sv. omší a spovedania - Farnosť Zvolen-Západ - Dominikáni Zvolen",
-      "textHash": "b377d9cdc06e4b57b5b6279462bdf32e7b61dc3f0923ca310de361c5099c410e",
-      "fingerprint": "66bd4b636cfc8b521e865366d85734db0f6bcfdd7806c002d8079e8e65e81842",
-      "changedAt": "2026-10-06T17:17:17.965Z",
+      "textHash": "22b4eed9843455bb7b606f42e373a6ecc407924000071fbeefa8207c195a5f81",
+      "fingerprint": "c3f82c6079acc0a0e549d514e294d674c728073bef422057b9a63d6fe324eeb8",
+      "changedAt": "2026-10-09T16:21:23.658Z",
       "firstSeenAt": "2026-06-12T18:21:56.006Z",
-      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Prehľad podujatí pre mladých v DCM · Ponúkame vám prehľad podujatí pre mladých v DCM na školský rok 2026/2027. Konkrétne dátumy a témy/hostí nájdete na webe a sociálnych sieťach DCM.",
+      "excerpt": "Farské oznamy, rozpis sv. omší a spovedania · Loading... · Taking too long? · Reload document · | Open in new tab · Stiahnuť · Aktuálne · Pozývame vás · Odpustová slávnosť Ružencovej Panny Márie · Pozývame vás na nasledovný program v našom kostole: 5. – 9. OKTÓBRA 2026 Téma kázní pri večerných omšiach:Radostné tajomstvá posv. ruženca a náš životKazateľ: fr. Matúš Kušnír, OP 10. OKTÓBRA (SOBOTA): 17.00 – radostný ruženec s rozjímaním18.00 – sv. omša s uvedením...",
       "documents": [
         {
           "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/10/27.-nedela-document.pdf",
@@ -92,12 +92,12 @@
           "changedAt": "2026-10-05T22:45:53.945Z"
         },
         {
-          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/10/DCM-Majak-e1791286474809-400x250.png",
+          "url": "https://farnostzvolenzapad.sk/wp-content/uploads/2026/09/Ruzencova-Panna-Maria-267x250.png",
           "type": "image",
-          "label": "DCM-Majak-e1791286474809-400x250.png",
-          "hash": "2801e978ecd79f0ffac16bab411e20c6893e35bf07e82292be05c86c8816a41b",
-          "bytes": 62147,
-          "changedAt": "2026-10-06T17:17:17.965Z"
+          "label": "Ruzencova-Panna-Maria-267x250.png",
+          "hash": "e2d6796468b926d1b94dd5d8e49d500cb055a1c00a53524521c2e0019aea9f80",
+          "bytes": 116837,
+          "changedAt": "2026-10-09T16:21:23.658Z"
         }
       ]
     },

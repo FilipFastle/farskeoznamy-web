@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "at": "2026-10-10T07:17:11.765Z",
+      "parishId": "zvolen-sekier",
+      "kind": "update",
+      "summary": "aktualizovaný text oznamov"
+    },
+    {
       "at": "2026-10-09T16:21:23.658Z",
       "parishId": "zvolen-zapad",
       "kind": "update",
